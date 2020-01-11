@@ -15,7 +15,10 @@ namespace EverySearch.Models
         
         [Required]
         public string Url { get; set; }
-        
+
+        [Required]
+        public string DisplayUrl { get; set; }
+
         [Required]
         public string Title { get; set; }
 

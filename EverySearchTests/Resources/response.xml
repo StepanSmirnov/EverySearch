@@ -1,0 +1,2585 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<yandexsearch version="1.0">
+  <request>
+    <query>Bible</query>
+    <page>0</page>
+    <sortby order="descending" priority="no">rlv</sortby>
+    <maxpassages></maxpassages>
+    <groupings>
+      <groupby attr="" mode="flat" groups-on-page="100" docs-in-group="1" curcateg="-1" />
+    </groupings>
+  </request>
+  <response date="20200111T172954">
+    <reqid>1578763794465925-917668436065081461127508-vla1-0773-XML</reqid>
+    <found priority="phrase">3944305</found>
+    <found priority="strict">3944305</found>
+    <found priority="all">3944305</found>
+    <found-human>4 mln. answers found</found-human>
+    <results>
+      <grouping attr="" mode="flat" groups-on-page="100" docs-in-group="1" curcateg="-1">
+        <found priority="phrase">11856</found>
+        <found priority="strict">11856</found>
+        <found priority="all">11856</found>
+        <found-docs priority="phrase">11856</found-docs>
+        <found-docs priority="strict">11856</found-docs>
+        <found-docs priority="all">11856</found-docs>
+        <found-docs-human>found 12 thsd. answers</found-docs-human>
+        <page first="1" last="100">0</page>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZB5E37FFACED30892">
+            <relevance />
+            <url>https://www.biblegateway.com/</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              BibleGateway.com: A searchable online <hlword>Bible</hlword> in over 150 versions and...
+            </title>
+            <modtime>20110519T201028</modtime>
+            <size>3482</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Read, hear, and study Scripture at the world's most-visited Christian website. Grow your faith with devotionals, <hlword>Bible</hlword> reading plans, and mobile apps.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9D7090A063BB075E">
+            <relevance />
+            <url>https://www.bible.com/</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Read the <hlword>Bible</hlword>. A free <hlword>Bible</hlword> on your phone, tablet, and... | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20100424T180514</modtime>
+            <size>821</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                With the YouVersion <hlword>Bible</hlword> App, you can read, watch, listen, and share on your smartphone or tablet
+              </passage>
+              <passage>
+                Choose from more than 1,200 <hlword>Bible</hlword> versions in over 900 languages on your computer, phone, or...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZA54479F74B6404D7">
+            <relevance />
+            <url>https://bible.by/</url>
+            <domain>bible.by</domain>
+            <title>БИБЛИЯ онлайн – читать и изучать</title>
+            <modtime>20070410T062414</modtime>
+            <size>1541</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Все комментарии и толкования. 2007-2020, сделано с любовью для любящих и ищущих Бога. Если у вас есть вопросы или пожелания, то пишите: <hlword>bible</hlword>-man@mail.ru.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>ru</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z3B3C6C1D6BAC7E7A">
+            <relevance />
+            <url>https://www.bible.com/ru</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Читайте Библию. Бесплатная Библия на вашем... | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20141103T040116</modtime>
+            <size>808</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Используя приложение Библия, вы можете читать, смотреть, слушать и делиться стихами на своем смартфоне, планшете или онлайн в <hlword>Bible</hlword>.com.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>ru</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZA80FCDDCA54B3F33">
+            <relevance />
+            <url>https://bibleonline.ru/</url>
+            <domain>bibleonline.ru</domain>
+            <title>«Библия онлайн»</title>
+            <headline>Тексты книг Нового и Ветхого Завета, детская Библия. Переводы на различные языки. Аудиозаписи. Библейские цитаты. Форум, блог, статьи.</headline>
+            <modtime>20061114T030000</modtime>
+            <size>278</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                La <hlword>Bible</hlword> on-line.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>1</_PassagesType>
+              <lang>ru</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZDEE90C3FD34FA7AB">
+            <relevance />
+            <url>https://bible.org/</url>
+            <domain>bible.org</domain>
+            <title>
+              <hlword>Bible</hlword>.org | Where the World Comes to Study the <hlword>Bible</hlword>
+            </title>
+            <modtime>20100429T082440</modtime>
+            <size>857</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Over the years Bob Deffinbaugh has answered many emails from <hlword>Bible</hlword>.org users about the <hlword>Bible</hlword> and life. Some of these we have begun turning into a new Q/A series that you may find helpful as you...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z6105BF5D130E18D9">
+            <relevance />
+            <url>https://www.biblica.com/bible/</url>
+            <domain>www.biblica.com</domain>
+            <title>
+              Online <hlword>Bible</hlword> | Biblica - The International <hlword>Bible</hlword> Society
+            </title>
+            <modtime>20140208T183043</modtime>
+            <size>3492</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Read the <hlword>Bible</hlword> online, in The New International Version (NIV), or a variety of other languages and translations.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z774A13AF1A29F354">
+            <relevance />
+            <url>https://www.biblegateway.com/formats</url>
+            <domain>www.biblegateway.com</domain>
+            <title>BibleGateway.com - 225 online Bibles in 73 languages, in text and...</title>
+            <modtime>20151024T223132</modtime>
+            <size>4603</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Gateway Plus. Bibles.
+              </passage>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9914E8D4C92940DF">
+            <relevance />
+            <url>https://www.bible.com/versions</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Over 2,023 versions in 1,371 languages - the <hlword>Bible</hlword> that goes with you...
+            </title>
+            <modtime>20120929T155430</modtime>
+            <size>19961</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Select any <hlword>Bible</hlword> verse or passage, linked directly to any of YouVersion’s 1,200+ versions, in 900+
+              </passage>
+              <passage>
+                People viewing your Event can tap your reference to see it in their <hlword>Bible</hlword> App reader, where they can...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z8044DCE1444D765F">
+            <relevance />
+            <url>https://biblehub.com/</url>
+            <domain>biblehub.com</domain>
+            <title>
+              <hlword>Bible</hlword> Hub: Search, Read, Study the <hlword>Bible</hlword> in Many Languages
+            </title>
+            <modtime>20100127T091555</modtime>
+            <size>2234</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                About <hlword>Bible</hlword> Hub. <hlword>Bible</hlword> Hub Online Parallel <hlword>Bible</hlword>, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZEFF91382C7458A76">
+            <relevance />
+            <url>https://www.bible.com/sign-up</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Create a Free YouVersion Account | Study the <hlword>Bible</hlword>. | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20141218T225113</modtime>
+            <size>860</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                With the YouVersion <hlword>Bible</hlword> App, you can read, watch, listen, and share on your smartphone or
+              </passage>
+              <passage>
+                When you see stats we share and celebrate about <hlword>Bible</hlword> engagement around the world, we make sure to...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5838A2C5BC19729C">
+            <relevance />
+            <url>https://www.bible.com/languages</url>
+            <domain>www.bible.com</domain>
+            <title>
+              <hlword>Bible</hlword> languages and translations - Download now or read online.
+            </title>
+            <modtime>20160421T095448</modtime>
+            <size>12802</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Select any <hlword>Bible</hlword> verse or passage, linked directly to any of YouVersion’s 1,200+ versions, in 900+
+              </passage>
+              <passage>
+                People viewing your Event can tap your reference to see it in their <hlword>Bible</hlword> App reader, where they can...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z8D5029054AE873CE">
+            <relevance />
+            <url>https://www.biblestudytools.com/</url>
+            <domain>www.biblestudytools.com</domain>
+            <title>
+              Read &amp; Study The <hlword>Bible</hlword> - Daily Verse, Scripture by Topic, Stories
+            </title>
+            <modtime>20090611T055323</modtime>
+            <size>1292</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Use our free online <hlword>Bible</hlword> to better know the Word of God. Read verses by topic, study Scripture with commentary while using our large library of biblical resources.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9E7B266EFF06793A">
+            <relevance />
+            <url>https://www.biblegateway.com/plus</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              <hlword>Bible</hlword> Gateway Plus
+            </title>
+            <modtime>20170415T030000</modtime>
+            <size>4045</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Reduced ads on <hlword>Bible</hlword> Gateway. Access to 40+ study &amp; reference books including the NIV Study
+              </passage>
+              <passage>
+                Weekly, downloadable <hlword>Bible</hlword> Studies with direct links to resources in the <hlword>Bible</hlword> Gateway Plus library.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z73C1042B3C5AA261">
+            <relevance />
+            <url>https://get.bible/</url>
+            <domain>get.bible</domain>
+            <title>
+              <hlword>BIBLE</hlword>: for all things <hlword>Bible</hlword> online
+            </title>
+            <modtime>20120616T200033</modtime>
+            <size>724</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                If you are a <hlword>Bible</hlword>-inspired organization, make sure your website URL is short, memorable, and instantly associated as <hlword>Bible</hlword>-related with our top-level domain.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZA106218DA91DA658">
+            <relevance />
+            <url>https://www.bible.is/apps</url>
+            <domain>www.bible.is</domain>
+            <title>
+              <hlword>Bible</hlword>.is
+            </title>
+            <modtime>20110214T233019</modtime>
+            <size>433</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> Everywhere for Everyone. With the <hlword>Bible</hlword>.is App.
+              </passage>
+              <passage>
+                <hlword>Bible</hlword>.is makes it easy for you to read, study, and share God's Word with friends and family around the globe.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z2AC39F2BC60DE64C">
+            <relevance />
+            <url>https://www.bible.is/</url>
+            <domain>www.bible.is</domain>
+            <title>
+              <hlword>Bible</hlword>.is | Experience the Word of God Like Never Before. Free.
+            </title>
+            <modtime>20100902T193834</modtime>
+            <size>425</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword>.is makes it easy for you to read, study, and share God's Word with friends and family around
+              </passage>
+              <passage>
+                Hear the <hlword>Bible</hlword> brought to life in high quality, dramatized audio in hundreds of languages at home...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9C5B18D11B6DC912">
+            <relevance />
+            <url>https://ebible.com/</url>
+            <domain>ebible.com</domain>
+            <title>
+              The <hlword>Bible</hlword>
+            </title>
+            <modtime>20090131T030000</modtime>
+            <size>3028</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword>. Search Filter. <hlword>Bible</hlword>. Questions. Journals.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z116C49331ADD7155">
+            <relevance />
+            <url>https://www.biblegateway.com/passage</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              BibleGateway.com: Search for a <hlword>Bible</hlword> passage in 70 languages and...
+            </title>
+            <modtime>20151021T183910</modtime>
+            <size>11217</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA)...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZE1CB00F1E9B0BA17">
+            <relevance />
+            <url>https://www.biblegateway.com/?version=NIV</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              BibleGateway.com: A searchable online <hlword>Bible</hlword> in over 150 versions and...
+            </title>
+            <modtime>20170820T084510</modtime>
+            <size>3537</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Read, hear, and study Scripture at the world's most-visited Christian website. Grow your faith with devotionals, <hlword>Bible</hlword> reading plans, and mobile apps.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z11A320CFB4B2C5BF">
+            <relevance />
+            <url>http://o-bible.com/</url>
+            <domain>o-bible.com</domain>
+            <title>
+              Chinese and English <hlword>Bible</hlword> Online
+            </title>
+            <modtime>20130307T045519</modtime>
+            <size>107</size>
+            <charset>windows-1252</charset>
+            <passages>
+              <passage>
+                Read and search in King James Version, <hlword>Bible</hlword> in Basic English and Chinese Union Version in both GB and Big5 encoding.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z0918A5CB5B828682">
+            <relevance />
+            <url>https://www.biblegateway.com/usage</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              Using <hlword>Bible</hlword> Gateway on your website
+            </title>
+            <modtime>20170707T030000</modtime>
+            <size>2886</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation
+              </passage>
+              <passage>
+                Transform all plain-text Scripture references on a webpage into hyperlinks to the appropriate <hlword>Bible</hlword>...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z65FFF1F7066BA9D0">
+            <relevance />
+            <url>https://www.biblegateway.com/keyword</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              BibleGateway.com: Search for a <hlword>Bible</hlword> word or phrase in 70 languages...
+            </title>
+            <modtime>20141015T030025</modtime>
+            <size>4529</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA)...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZFF0B3E26BD1B6674">
+            <relevance />
+            <url>https://www.biblestudytools.com/bible-versions/</url>
+            <domain>www.biblestudytools.com</domain>
+            <title>
+              <hlword>Bible</hlword> Versions and Translations Online
+            </title>
+            <modtime>20090924T040000</modtime>
+            <size>1630</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Read and search over 30 different <hlword>Bible</hlword> translations and versions online using <hlword>Bible</hlword> Study Tools free resources.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5AD5E66396C968B2">
+            <relevance />
+            <url>https://bible.org/passage</url>
+            <domain>bible.org</domain>
+            <title>
+              Where the world comes to study the <hlword>Bible</hlword>. | <hlword>Bible</hlword>.org
+            </title>
+            <modtime>20120726T205030</modtime>
+            <size>793</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Subscribe to <hlword>bible</hlword>.org Newsletter. Subscribe to NET Pastor's Journal.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5979FF45CDE87D56">
+            <relevance />
+            <url>https://bibleresources.org/</url>
+            <domain>bibleresources.org</domain>
+            <title>
+              <hlword>Bible</hlword> Resources
+            </title>
+            <modtime>20080925T055544</modtime>
+            <size>1694</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Resources serves Christians by providing an online <hlword>bible</hlword>, <hlword>bible</hlword> studies, <hlword>bible</hlword> answers, devotionals and a prayer room to join your faith with others.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z3D16E1A140692BE8">
+            <relevance />
+            <url>https://www.biblestudytools.com/niv/</url>
+            <domain>www.biblestudytools.com</domain>
+            <title>
+              New International Version <hlword>Bible</hlword> - Read Free Online
+            </title>
+            <modtime>20090710T132859</modtime>
+            <size>853</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Search and read <hlword>Bible</hlword> verses using the popular New International Version (NIV) translation. Take notes online, highlight verses and save notes!
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z2ABB142FF168E3EF">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Bible_study_(Christianity)</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              <hlword>Bible</hlword> study (Christianity) - Wikipedia
+            </title>
+            <headline>
+              In Christian communities, <hlword>Bible</hlword> study is the study of the <hlword>Bible</hlword> by ordinary people as a personal religious or spiritual practice. Some denominations may call this devotion or devotional acts; however in other denominations devotion has other meanings.
+            </headline>
+            <modtime>20081226T111217</modtime>
+            <size>2836</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z568C103A65AB3E68">
+            <relevance />
+            <url>https://www.dakebible.com/</url>
+            <domain>www.dakebible.com</domain>
+            <title>
+              Dake <hlword>Bible</hlword> - Home of the Dake Annotated Reference <hlword>Bible</hlword>
+            </title>
+            <modtime>20081008T025612</modtime>
+            <size>1720</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The Dake Study <hlword>Bible</hlword> and Dake Annotated Reference <hlword>Bible</hlword> are the same <hlword>Bible</hlword>!
+              </passage>
+              <passage>
+                The general principle Finis Dake adhered to throughout the Dake <hlword>Bible</hlword> is that of literalizing instead of spiritualizing.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z8313CBBC49958634">
+            <relevance />
+            <url>https://mybible.com/</url>
+            <domain>mybible.com</domain>
+            <title>
+              My <hlword>Bible</hlword>
+            </title>
+            <modtime>20091225T142513</modtime>
+            <size>689</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                English Standard Version (ESV). King James Version (KJV). New American Standard <hlword>Bible</hlword> (NASB). New Living Translation (NLT). MyBible Social App. Read the <hlword>Bible</hlword> together with your friends anywhere!
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZCCE6C3940EFE59E6">
+            <relevance />
+            <url>https://answersingenesis.org/bible/</url>
+            <domain>answersingenesis.org</domain>
+            <title>
+              <hlword>Bible</hlword> | Answers in Genesis
+            </title>
+            <modtime>20140625T175443</modtime>
+            <size>2137</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> is the inspired, infallible Word of God. It is an eyewitness account of history and is accurate in everything it says.
+              </passage>
+              <passage>
+                The <hlword>Bible</hlword> is the foundation for our understanding of the real world.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z6C307A8D79BB8388">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Criticism_of_the_Bible</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              Criticism of the <hlword>Bible</hlword> - Wikipedia
+            </title>
+            <headline>
+              Criticism of the <hlword>Bible</hlword> is an interdisciplinary field of study concerning the factual accuracy of the claims and the moral tenability of the commandments made in the <hlword>Bible</hlword>, the holy book of Christianity. Long considered to be the perfect word of God by devout Christians (and the Jewish parts by devout Jews)...
+            </headline>
+            <modtime>20081226T111217</modtime>
+            <size>11240</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z16A82FDC9673A053">
+            <relevance />
+            <url>https://www.bible.is/about</url>
+            <domain>www.bible.is</domain>
+            <title>
+              <hlword>Bible</hlword>.is
+            </title>
+            <modtime>20131204T153531</modtime>
+            <size>395</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                About <hlword>Bible</hlword>.is. Bringing the <hlword>Bible</hlword> to everyone in the world in their heart language, in text
+              </passage>
+              <passage>
+                Launched for the iPhone in June of 2010 with just 218 languages, <hlword>Bible</hlword>.is now features 1,300+ languages and...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZD5329B7F58FF9E7F">
+            <relevance />
+            <url>https://store.bible.org/</url>
+            <domain>store.bible.org</domain>
+            <title>
+              <hlword>Bible</hlword>.org
+            </title>
+            <modtime>20121008T213128</modtime>
+            <size>460</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                NET <hlword>Bible</hlword> Reader's Edition - Pew <hlword>Bible</hlword>. 7.50.
+              </passage>
+              <passage>
+                NET <hlword>Bible</hlword> ePub. 4.95. Add to Cart.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZE3A7CC920174872B">
+            <relevance />
+            <url>https://www.conservapedia.com/Bible</url>
+            <domain>www.conservapedia.com</domain>
+            <title>
+              <hlword>Bible</hlword> - Conservapedia
+            </title>
+            <headline>
+              The <hlword>Bible</hlword> is the most logical, insightful and influential collection of books and letters ever written. It includes the most beautiful book ever written, the Gospel of Luke, the most profound book ever written, the Gospel of John, and the most intellectual treatise ever written, the Epistle to the Hebrews.
+            </headline>
+            <modtime>20100418T094523</modtime>
+            <size>25982</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5FE0172A2739E0C8">
+            <relevance />
+            <url>https://carm.org/bible</url>
+            <domain>carm.org</domain>
+            <title>
+              The <hlword>Bible</hlword> | CARM.org
+            </title>
+            <modtime>20150122T082726</modtime>
+            <size>3426</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> is the most widely printed and published book in the world.
+              </passage>
+              <passage>
+                The <hlword>Bible</hlword> is a wonderful book of wisdom and revelation. It is inspired, infallable, and theologically deep.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z70924BC938016DF7">
+            <relevance />
+            <url>http://www.pocbible.com/</url>
+            <domain>www.pocbible.com</domain>
+            <title>
+              POC <hlword>Bible</hlword> :: Thiruvachanam :: Word of God : KCBC <hlword>Bible</hlword>...
+            </title>
+            <modtime>20081028T110133</modtime>
+            <size>477</size>
+            <charset>CP852</charset>
+            <passages>
+              <passage>
+                Complete online poc <hlword>bible</hlword> in malayalam. POC <hlword>bible</hlword> includes full version of new testament and old testament. It is developed by KCBC <hlword>bible</hlword> commission.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z508BF81E9393A797">
+            <relevance />
+            <url>http://usccb.org/Bible/</url>
+            <domain>usccb.org</domain>
+            <title>
+              <hlword>Bible</hlword>
+            </title>
+            <modtime>20100920T130642</modtime>
+            <size>1164</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Released on March 9, 2011, the New American <hlword>Bible</hlword>, Revised Edition (NABRE) is the culmination of nearly 20 years of work by a group of nearly 100 scholars and theologians, including bishops, revisers...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z8B06A3ABCA99D51B">
+            <relevance />
+            <url>https://www.catholic.org/bible/</url>
+            <domain>www.catholic.org</domain>
+            <title>
+              <hlword>Bible</hlword> - Catholic Online
+            </title>
+            <modtime>20081226T111123</modtime>
+            <size>2344</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The New Jerusalem <hlword>Bible</hlword> (NJB) has become the most widely used Roman Catholic <hlword>Bible</hlword> outside of the United States. It has the imprimatur of Cardinal George Basil Hume.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z7CE875C6AFF1AA9E">
+            <relevance />
+            <url>https://www.adabible.org/watch/</url>
+            <domain>www.adabible.org</domain>
+            <title>
+              Watch - Ada <hlword>Bible</hlword> Church
+            </title>
+            <modtime>20130920T154701</modtime>
+            <size>573</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                © 2020 Ada <hlword>Bible</hlword> Church. All rights reserved. Visit.
+              </passage>
+              <passage>
+                Ada <hlword>Bible</hlword> Mobile App. Beyond The Weekend Devotional. Sermon Discussion Guide.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z93590A0DD776E5D6">
+            <relevance />
+            <url>https://rationalwiki.org/wiki/Bible</url>
+            <domain>rationalwiki.org</domain>
+            <title>
+              <hlword>Bible</hlword> - RationalWiki
+            </title>
+            <headline>
+              The <hlword>Bible</hlword> is an anthology of books which Christians (and, to a lesser extent, Muslims) regard as holy scripture and as the revealed word of God. Depending on what sort of faithful you speak to, the <hlword>Bible</hlword> is: a collection of parables, metaphors...
+            </headline>
+            <modtime>20100218T182509</modtime>
+            <size>11077</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZA19D73F6080CB7CB">
+            <relevance />
+            <url>https://en.wikisource.org/wiki/Bible</url>
+            <domain>en.wikisource.org</domain>
+            <title>
+              <hlword>Bible</hlword> - Wikisource, the free online library
+            </title>
+            <headline>
+              English-language translations of The <hlword>Bible</hlword> include: The Twenty-Four Books of the Holy Scriptures, translated by Isaac Leeser (1853). The Targums of Onkelos and Jonathan Ben Uzziel, translated by John Wesley Etheridge (1862). (external scan).
+            </headline>
+            <modtime>20170821T190953</modtime>
+            <size>1562</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z7E29A722B83DD2B7">
+            <relevance />
+            <url>https://bible.en.softonic.com/</url>
+            <domain>bible.en.softonic.com</domain>
+            <title>
+              <hlword>Bible</hlword> for Android - Download
+            </title>
+            <modtime>20110331T140809</modtime>
+            <size>2147</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> for Android, free and safe download.
+              </passage>
+              <passage>
+                Flexible, easy to use, and completely portable, <hlword>Bible</hlword> is an excellent way to access the Holy <hlword>Bible</hlword> from your Android phone.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z63392A6F52BD57D9">
+            <relevance />
+            <url>https://www.bibleinfo.com/en</url>
+            <domain>www.bibleinfo.com</domain>
+            <title>
+              Bibleinfo.com | Get Free <hlword>Bible</hlword> Study Guides
+            </title>
+            <modtime>20080304T231313</modtime>
+            <size>1251</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Featured <hlword>Bible</hlword> Questions. What is the fruit of the Spirit?
+              </passage>
+              <passage>
+                Jesus is coming again. It's in the <hlword>Bible</hlword>, John 14:2-3, NKJV. “In My Father’s house are many mansions; if it were not so, I would have told you.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZF214D23A03DF64D9">
+            <relevance />
+            <url>https://www.yourdictionary.com/bible</url>
+            <domain>www.yourdictionary.com</domain>
+            <title>
+              <hlword>Bible</hlword> dictionary definition | <hlword>Bible</hlword> defined
+            </title>
+            <modtime>20081227T030000</modtime>
+            <size>2797</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> definition: The <hlword>Bible</hlword> is defined as a book of religious scriptures. (noun) An example of <hlword>Bible</hlword> is the 66 books of the Old Testament and New Testament in the Christian religion....
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1F6A86A5FB51977B">
+            <relevance />
+            <url>https://www.ourbibleapp.com/</url>
+            <domain>www.ourbibleapp.com</domain>
+            <title>
+              Keep your faith. Ditch the baggage. Our <hlword>Bible</hlword> App Get The Playbook!
+            </title>
+            <modtime>20170210T030000</modtime>
+            <size>908</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Our <hlword>Bible</hlword> App Get The Playbook!
+              </passage>
+              <passage>
+                Keep your faith. Ditch the baggage. Our <hlword>Bible</hlword> App.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZF3C193B446B3160C">
+            <relevance />
+            <url>https://www.theactionbible.com/</url>
+            <domain>www.theactionbible.com</domain>
+            <title>
+              The Action <hlword>Bible</hlword> Official Website - Home
+            </title>
+            <modtime>20100511T085237</modtime>
+            <size>515</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Bringing the <hlword>Bible</hlword> to Life for Preteens! This brand new curriculum encourages preteens to take the spiritual leap from <hlword>Bible</hlword> information to transformation, as they find their path to lifetime faith.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZE66B67D005C562F0">
+            <relevance />
+            <url>https://www.catholic.org/bible/books_bible.php</url>
+            <domain>www.catholic.org</domain>
+            <title>
+              Books of the <hlword>Bible</hlword> - <hlword>Bible</hlword> - Catholic Online
+            </title>
+            <modtime>20081227T030000</modtime>
+            <size>2113</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Get your own <hlword>Bible</hlword> Buy a <hlword>Bible</hlword> today. Select the perfect <hlword>bible</hlword> for you by using the filters below to help you pick the
+              </passage>
+              <passage>
+                FREE Classes on the <hlword>Bible</hlword> Free, world-class Catholic education for anyone, anywhere.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1245426CC478788E">
+            <relevance />
+            <url>https://www.dictionary.com/browse/bible</url>
+            <domain>www.dictionary.com</domain>
+            <title>
+              <hlword>Bible</hlword> | Definition of <hlword>Bible</hlword> at Dictionary.com
+            </title>
+            <modtime>20081226T111201</modtime>
+            <size>1617</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> definition, the collection of sacred writings of the Christian religion, comprising the Old and New Testaments. See more.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z4721F4A53C6E0475">
+            <relevance />
+            <url>https://www.biblica.com/niv-bible/</url>
+            <domain>www.biblica.com</domain>
+            <title>
+              About the NIV <hlword>Bible</hlword> Translation | Biblica - The International <hlword>Bible</hlword>...
+            </title>
+            <modtime>20071218T030000</modtime>
+            <size>2715</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The New International Version (NIV) is the most widely read <hlword>Bible</hlword> translation in contemporary English. Learn more about it here.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZCFDF7F66D211D1F7">
+            <relevance />
+            <url>https://www.kingjamesbibleonline.org/</url>
+            <domain>www.kingjamesbibleonline.org</domain>
+            <title>
+              Official king james <hlword>bible</hlword> online: authorized king james version (KJV)
+            </title>
+            <modtime>20080928T073644</modtime>
+            <size>710</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                King James <hlword>Bible</hlword>. The Preserved and Living Word of God. SEARCH THE <hlword>BIBLE</hlword> (Advanced). SELECT A BOOK (Index).
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z576EC403E24363C7">
+            <relevance />
+            <url>https://www.britannica.com/topic/Bible</url>
+            <domain>www.britannica.com</domain>
+            <title>
+              <hlword>Bible</hlword> | Description, History, &amp; Facts | Britannica
+            </title>
+            <modtime>20160701T082731</modtime>
+            <size>11329</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword>, the sacred scriptures of Judaism and Christianity.
+              </passage>
+              <passage>
+                The Hebrew <hlword>Bible</hlword> includes only the books known to Christians as the Old Testament.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z42278476909F2B75">
+            <relevance />
+            <url>https://www.openbible.org/</url>
+            <domain>www.openbible.org</domain>
+            <title>
+              Home Page | Open <hlword>Bible</hlword> Churches
+            </title>
+            <modtime>20140728T162628</modtime>
+            <size>936</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Open <hlword>Bible</hlword>’s mission is to globally make disciples, develop leaders, and plant churches. While there are many related ministry extensions that receive our attention, these three mission components are...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z62329241230FEA51">
+            <relevance />
+            <url>https://www.bibleuniverse.com/</url>
+            <domain>www.bibleuniverse.com</domain>
+            <title>
+              <hlword>Bible</hlword> Study | Where in the <hlword>Bible</hlword> | <hlword>Bible</hlword> School | <hlword>Bible</hlword> Universe
+            </title>
+            <modtime>20080917T011923</modtime>
+            <size>1138</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                We have free online <hlword>Bible</hlword> Studies, a Free <hlword>Bible</hlword> School, articles on <hlword>Bible</hlword> Prophecy, and much more ...
+              </passage>
+              <passage>
+                How to Study the <hlword>Bible</hlword> Why Study <hlword>Bible</hlword> Prophecy?
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z34911BF7D391C09E">
+            <relevance />
+            <url>https://globible.com/</url>
+            <domain>globible.com</domain>
+            <title>
+              glo <hlword>Bible</hlword> – The Media <hlword>Bible</hlword>
+            </title>
+            <modtime>20130812T183528</modtime>
+            <size>217</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Enriching your <hlword>Bible</hlword> reading experience by connecting a variety of resources with scripture passages.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZCA47F2C2A1E4AF9E">
+            <relevance />
+            <url>https://www.americanbible.org/</url>
+            <domain>www.americanbible.org</domain>
+            <title>
+              American <hlword>Bible</hlword> Society
+            </title>
+            <modtime>20071216T030000</modtime>
+            <size>1088</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                American <hlword>Bible</hlword> Society is a Christian ministry that has been engaging people with the life-changing message of God’s Word for over 200 years.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZBEB2F794145FD66C">
+            <relevance />
+            <url>https://www.biblebaptist.net/</url>
+            <domain>www.biblebaptist.net</domain>
+            <title>Home | biblebaptist</title>
+            <modtime>20081008T065849</modtime>
+            <size>161</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Baptist Church. Hasbrouck Heights, NJ.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z64C032F807F20C34">
+            <relevance />
+            <url>https://www.bibletraining.com/</url>
+            <domain>www.bibletraining.com</domain>
+            <title>
+              <hlword>Bible</hlword> Training Centre for Pastors
+            </title>
+            <modtime>20110912T080110</modtime>
+            <size>1921</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                BTCP training uses a biblical, systematic, portable and comprehensive approach to providing the foundational equivalent of a good <hlword>Bible</hlword> college or seminary education. Our training consists of 520...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z930C39EC009D5594">
+            <relevance />
+            <url>http://usccb.org/BIBLE/BOOKS-OF-THE-BIBLE/</url>
+            <domain>usccb.org</domain>
+            <title>
+              Books of the <hlword>Bible</hlword>
+            </title>
+            <modtime>20110808T180146</modtime>
+            <size>5689</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                USCCB &gt; <hlword>Bible</hlword>. Books of the <hlword>Bible</hlword>. SORT ORDER: Canonical | Alphabetical.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z952668D4A98BC8DF">
+            <relevance />
+            <url>https://www.biblegateway.com/about</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              BibleGateway.com | Here's how to get the most out of <hlword>Bible</hlword> Gateway
+            </title>
+            <modtime>20170821T222505</modtime>
+            <size>2935</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                About <hlword>Bible</hlword> Gateway - the original searchable online <hlword>Bible</hlword>.
+              </passage>
+              <passage>
+                <hlword>Bible</hlword> Gateway is a searchable online <hlword>Bible</hlword> in more than 200 versions and 70 languages that you can freely read, research, and reference...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1BBFB050E7CCDF9B">
+            <relevance />
+            <url>https://www.thenivbible.com/</url>
+            <domain>www.thenivbible.com</domain>
+            <title>
+              NIV <hlword>Bible</hlword> - New International Version | The NIV <hlword>Bible</hlword> Translation
+            </title>
+            <modtime>20100823T085649</modtime>
+            <size>1172</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The NIV <hlword>Bible</hlword> is the world’s bestselling modern English <hlword>Bible</hlword> translation. Learn about the NIV translation, NIV Bibles &amp; read articles related to the <hlword>Bible</hlword>.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZC9FB7BA7107A1020">
+            <relevance />
+            <url>http://biblecambodia.org/</url>
+            <domain>biblecambodia.org</domain>
+            <title>BSC HOME | សមាគមព្រះគម្ពីរកម្ពុជ</title>
+            <modtime>20101122T164542</modtime>
+            <size>666</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The ministry of <hlword>Bible</hlword> Society focuses primarily on <hlword>Bible</hlword> translation, publishing and distribution, and
+              </passage>
+              <passage>
+                Read Khmer <hlword>Bible</hlword> Online: You can access the two Khmer <hlword>Bible</hlword> texts on <hlword>Bible</hlword> Society on Cambodia...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z910C472FEDC8EA59">
+            <relevance />
+            <url>http://www.wholebible.com/</url>
+            <domain>www.wholebible.com</domain>
+            <title>
+              Whole <hlword>Bible</hlword> Christianity
+            </title>
+            <modtime>20130731T035010</modtime>
+            <size>2179</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Whole <hlword>Bible</hlword> Christianity! Standard church just not doing it for you? Looking for truth, and it's scarce in the
+              </passage>
+              <passage>
+                God's got the answer. Our book Whole <hlword>Bible</hlword> Christianity points the way! Now in Kindle and...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z01DA4456D7132F4F">
+            <relevance />
+            <url>http://www.greekbible.com/</url>
+            <domain>www.greekbible.com</domain>
+            <title>
+              Greek <hlword>Bible</hlword>
+            </title>
+            <modtime>20140901T131309</modtime>
+            <size>322</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The Online Greek <hlword>Bible</hlword>.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z80DEB073833CAB73">
+            <relevance />
+            <url>https://lostpedia.fandom.com/wiki/Bible</url>
+            <domain>lostpedia.fandom.com</domain>
+            <title>
+              <hlword>Bible</hlword> | Lostpedia | Fandom
+            </title>
+            <headline>
+              Lost contains numerous references to the <hlword>Bible</hlword>. &quot;The <hlword>Bible</hlword>&quot; refers to the Holy Books of both Judaism and Christianity. There were many references to Biblical people and events made throughout the storyline.
+            </headline>
+            <modtime>20140119T154235</modtime>
+            <size>4730</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1E0F6634F9CEC3EB">
+            <relevance />
+            <url>http://o-bible.com/kjv.html</url>
+            <domain>o-bible.com</domain>
+            <title>
+              The Holy <hlword>Bible</hlword> - King James Version
+            </title>
+            <modtime>20160115T225003</modtime>
+            <size>373</size>
+            <charset>windows-1252</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Resource Download <hlword>Bible</hlword> <hlword>Bible</hlword> Links. E-mail Us. The Holy <hlword>Bible</hlword> King James Version. The Old Testament.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9627FCDF96A95113">
+            <relevance />
+            <url>http://bible.catholic.net/</url>
+            <domain>bible.catholic.net</domain>
+            <title>
+              <hlword>Bible</hlword> - Catholic.net
+            </title>
+            <modtime>20100515T063717</modtime>
+            <size>204</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                God, Jesus Christ, Holy Spirit, Catholic Church Teaching, <hlword>Bible</hlword>, Catechism, Prayers, Saints, Virgin Mary, Apostles, Pope Francis, Vatican, Catholic News, Life Issues.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z44CD4F58F2576074">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/.bible</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              <hlword>bible</hlword> - Wikipedia
+            </title>
+            <headline>
+              .<hlword>bible</hlword> is a delegated new top-level domain (TLD), approved by ICANN as a generic TLD (gTLD). According to the ICANN application for this TLD, &quot;The goal of the .<hlword>BIBLE</hlword> top-level domain is to establish itself as the recognized choice for registrants who want to market and promote themselves...
+            </headline>
+            <modtime>20150903T032501</modtime>
+            <size>1327</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZD510D02AAF81F748">
+            <relevance />
+            <url>https://blogs.bible.org/</url>
+            <domain>blogs.bible.org</domain>
+            <title>
+              <hlword>Bible</hlword>.org Blogs
+            </title>
+            <modtime>20100131T042322</modtime>
+            <size>3276</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                (Not sure if you got the memo, but nerds rule the world.) And right out of the gate starting with Matthew Chapter 1, the <hlword>Bible</hlword> wastes no time slapping us in our faces.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZEAF62289F91437AF">
+            <relevance />
+            <url>https://www.bible.com/videos</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Watch videos about the <hlword>Bible</hlword> | The <hlword>Bible</hlword> App | <hlword>Bible</hlword>.com
+            </title>
+            <headline>Choose Your Language.</headline>
+            <modtime>20141219T011018</modtime>
+            <size>517</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z68552F0925BBA8C4">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Bible_translations_into_English</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              <hlword>Bible</hlword> translations into English - Wikipedia
+            </title>
+            <headline>
+              Partial <hlword>Bible</hlword> translations into languages of the English people can be traced back to the late 7th century, including translations into Old and Middle English. More than 450 translations into English have been written.
+            </headline>
+            <modtime>20131119T031058</modtime>
+            <size>7103</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z0A13C3317E11816D">
+            <relevance />
+            <url>https://www.churchofjesuschrist.org/study/manual/gospel-topics/bible</url>
+            <domain>www.churchofjesuschrist.org</domain>
+            <title>
+              <hlword>Bible</hlword>
+            </title>
+            <modtime>20140325T003125</modtime>
+            <size>2126</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> is the word of God. It is a witness for God and Jesus Christ. Members of the Church are encouraged to study it
+              </passage>
+              <passage>
+                In English, the King James Version is used as the official <hlword>Bible</hlword> of the Church.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZC4FECB790AC35E23">
+            <relevance />
+            <url>https://www.communitybible.com/</url>
+            <domain>www.communitybible.com</domain>
+            <title>
+              Community <hlword>Bible</hlword> Church
+            </title>
+            <modtime>20080615T040000</modtime>
+            <size>2763</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Initiating and Celebrating Life Change in Jesus’ name. Welcome to Community <hlword>Bible</hlword> Church!
+              </passage>
+              <passage>
+                First off, we met many of our closest family friends in a young married <hlword>Bible</hlword> study, led by a residential...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZBB526ADDF9EE467B">
+            <relevance />
+            <url>http://www.hindibible.org/</url>
+            <domain>www.hindibible.org</domain>
+            <title>
+              Hindi <hlword>Bible</hlword>
+            </title>
+            <modtime>20080810T040000</modtime>
+            <size>1657</size>
+            <charset>windows-1252</charset>
+            <passages>
+              <passage>
+                Hindi Online <hlword>Bible</hlword>. Font Download Hindi Font Malayalam Font Tamil Font Kannada Font.
+              </passage>
+              <passage>
+                Devotionals: In Search of Peace CSI News Letter. Hindi <hlword>Bible</hlword>.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZA3A1A3C98C02D864">
+            <relevance />
+            <url>https://www.bible.com/en-GB/</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Read the <hlword>Bible</hlword>. A free <hlword>Bible</hlword> on your phone, tablet, and... | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20141103T040058</modtime>
+            <size>831</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                With the YouVersion <hlword>Bible</hlword> App, you can read, watch, listen, and share on your
+              </passage>
+              <passage>
+                Choose from more than 1,200 <hlword>Bible</hlword> versions in over 900 languages on your computer, phone, or tablet -- with many...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5D17BFFAE94F422A">
+            <relevance />
+            <url>https://holybible.com/</url>
+            <domain>holybible.com</domain>
+            <title>
+              A beautiful way to read the <hlword>Bible</hlword>.
+            </title>
+            <headline>
+              A beautiful way to read the <hlword>Bible</hlword>.
+            </headline>
+            <modtime>20080901T040000</modtime>
+            <size>47</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>1</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZD93F348CD381E21A">
+            <relevance />
+            <url>https://www.biblestudytools.com/commentaries/</url>
+            <domain>www.biblestudytools.com</domain>
+            <title>
+              <hlword>Bible</hlword> Commentary – Free Online <hlword>Bible</hlword> Commentaries
+            </title>
+            <modtime>20120225T071719</modtime>
+            <size>1268</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Find explanations and interpretations of <hlword>Bible</hlword> verses using an online <hlword>Bible</hlword> commentary at
+              </passage>
+              <passage>
+                Understand <hlword>bible</hlword> verses more clearly using popular <hlword>Bible</hlword> commentaries from Matthew Henry...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z7811836653004E71">
+            <relevance />
+            <url>https://www.bible.org.sg/</url>
+            <domain>www.bible.org.sg</domain>
+            <title>
+              <hlword>Bible</hlword> Society of Singapore | Our mission is to make the Word of God...
+            </title>
+            <modtime>20071215T030000</modtime>
+            <size>2895</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> mission began in Singapore in 1823, largely because of Sir Stamford Raffles and Dr
+              </passage>
+              <passage>
+                On 4 July 1837, the Singapore Auxiliary <hlword>Bible</hlword> Society was formally established with the aim of serving the...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z5842490E17401511">
+            <relevance />
+            <url>https://www.biblegateway.com/devotionals</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              Devotionals - <hlword>Bible</hlword> Gateway
+            </title>
+            <modtime>20170821T070349</modtime>
+            <size>4949</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY)
+              </passage>
+              <passage>
+                International Children’s <hlword>Bible</hlword> (ICB) International Standard Version (ISV) J.B. Phillips New...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZCE69AEE656210792">
+            <relevance />
+            <url>https://bible.org/article/how-accurate-bible</url>
+            <domain>bible.org</domain>
+            <title>
+              How Accurate is the <hlword>Bible</hlword>? | <hlword>Bible</hlword>.org
+            </title>
+            <modtime>20121227T113616</modtime>
+            <size>3264</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Jack, you're always quoting the <hlword>Bible</hlword> to me as if were the last word on issues about life.
+              </passage>
+              <passage>
+                Historians and scientists have long since proven that the <hlword>Bible</hlword> is inaccurate and unreliable.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZEFFB8A37270A1D10">
+            <relevance />
+            <url>https://bible.wikia.org/</url>
+            <domain>bible.wikia.org</domain>
+            <title>
+              <hlword>Bible</hlword> Wiki | Fandom
+            </title>
+            <modtime>20121111T160703</modtime>
+            <size>1532</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Wiki is a database covering people, places, books, doctrine and history of the <hlword>Bible</hlword>. Join us as we glorify God, write about the <hlword>Bible</hlword> and be in fellowship with other Christians.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z3872A828E1C4DA60">
+            <relevance />
+            <url>https://www.akbible.edu/</url>
+            <domain>www.akbible.edu</domain>
+            <title>
+              Alaska <hlword>Bible</hlword> College | Alaska <hlword>Bible</hlword> College
+            </title>
+            <modtime>20081002T044836</modtime>
+            <size>510</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Alaska's only non-denominational four-year degree in <hlword>bible</hlword>.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1C56FEB74A2E0AFB">
+            <relevance />
+            <url>https://bible.org/topics</url>
+            <domain>bible.org</domain>
+            <title>
+              Where the world comes to study the <hlword>Bible</hlword>. | <hlword>Bible</hlword>.org
+            </title>
+            <modtime>20110720T102351</modtime>
+            <size>1279</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Subscribe to <hlword>bible</hlword>.org Newsletter. Subscribe to NET Pastor's Journal.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z1AF71D992FEB492A">
+            <relevance />
+            <url>https://www.wonderbible.com/</url>
+            <domain>www.wonderbible.com</domain>
+            <title>
+              Wonder <hlword>Bible</hlword>
+            </title>
+            <modtime>20141014T180536</modtime>
+            <size>942</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Wonder <hlword>Bible</hlword>™ presents the books of the old and new testaments in an unforgettable presentation. Simply turn on your Wonder <hlword>Bible</hlword>™ and listen as it reads the books of the <hlword>bible</hlword> to you.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZBF7049BA47468284">
+            <relevance />
+            <url>http://www.gobible.org/bible/</url>
+            <domain>www.gobible.org</domain>
+            <title>
+              <hlword>Bible</hlword> Studies Archive - GoBible.org
+            </title>
+            <modtime>20100331T040000</modtime>
+            <size>1357</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> Studies Archive. Want to learn more about the <hlword>Bible</hlword>? Use these <hlword>Bible</hlword> Studies for personal devotion, group <hlword>Bible</hlword> studies, or teaching a church class.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z4652F7046027DE62">
+            <relevance />
+            <url>https://www.youversion.com/the-bible-app/</url>
+            <domain>www.youversion.com</domain>
+            <title>
+              The <hlword>Bible</hlword> App - YouVersion
+            </title>
+            <modtime>20180129T030000</modtime>
+            <size>579</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The <hlword>Bible</hlword> App’s interface is available in more than 60 languages, allowing users to: Read the <hlword>Bible</hlword>, or let Audio versions read the <hlword>Bible</hlword> to you. Subscribe to Plans, daily portions of Scripture paired with...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z220C1D7FE4F0C1A6">
+            <relevance />
+            <url>http://www.myanmarbible.net/</url>
+            <domain>www.myanmarbible.net</domain>
+            <title>
+              Myanmar <hlword>Bible</hlword> .Net
+            </title>
+            <modtime>20140619T223904</modtime>
+            <size>702</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Myanmar <hlword>Bible</hlword> .Net. The Words of the Lord is the Bread for the followers.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZFDC5152FE0C60B3D">
+            <relevance />
+            <url>https://www.biblegateway.com/resources</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              Audio Bibles, commentaries, dictionaries, and <hlword>Bible</hlword> study tools.
+            </title>
+            <modtime>20170504T030000</modtime>
+            <size>3085</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA)...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z4B725D4F1D87044B">
+            <relevance />
+            <url>https://www.bible.com/ko</url>
+            <domain>www.bible.com</domain>
+            <title>
+              성경 읽기 스마트 폰, 태블렛, 컴퓨터용 무료 성경 | 성경 앱 | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20141103T040058</modtime>
+            <size>769</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                성경의 진리와 아름다움을 일상 생활속에서 접하세요. YouVersion 성경앱으로 말씀을 읽고, 보고, 들으실 수있습니다. 스마트 폰이나 태블랫 또는 <hlword>Bible</hlword>.com/ko 에서 온라인으로 보실 수있습니다.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>ko</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZC26F80568299BD33">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Bible_errata</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              <hlword>Bible</hlword> errata - Wikipedia
+            </title>
+            <headline>Throughout history, printers' errors and peculiar translations have appeared in Bibles published throughout the world. The genealogy of Jesus, in the Gospel of Luke, has an extra ancestor at Luke 3:26 (the second name on this illustrated page).</headline>
+            <modtime>20120410T201933</modtime>
+            <size>3720</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z4A417AC1DAFE543C">
+            <relevance />
+            <url>https://biblelit.com/</url>
+            <domain>biblelit.com</domain>
+            <title>Home</title>
+            <modtime>20100812T062344</modtime>
+            <size>697</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Home of the <hlword>Bible</hlword> and Literature Missionary Foundation. We print Bibles and ship them all around the world...for free.
+              </passage>
+              <passage>
+                The goal of BLMF is to print a <hlword>Bible</hlword> for every person in need around the globe.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZBEED032136CB438A">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Portal:Bible</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              Portal:<hlword>Bible</hlword> - Wikipedia
+            </title>
+            <modtime>20080310T030000</modtime>
+            <size>2536</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                The Gutenberg <hlword>Bible</hlword>, the first printed <hlword>Bible</hlword>. The <hlword>Bible</hlword> (from Koine Greek τὰ βιβλία, tà biblía, &quot;the books&quot;) is
+              </passage>
+              <passage>
+                Those books included in the <hlword>Bible</hlword> by a tradition or group are called canonical, indicating...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZC7460E6DC74EED62">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/?search=helpmeet</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              Women in the <hlword>Bible</hlword> - Wikipedia
+            </title>
+            <headline>
+              The women in the <hlword>Bible</hlword> are rarely mentioned by name, with named women representing only 5.5 to 8 percent of the total of all named characters, male and female. This suggests that women were not usually in the forefront of public life.
+            </headline>
+            <modtime>20081226T111217</modtime>
+            <size>22559</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z9879D1AB0F26E68C">
+            <relevance />
+            <url>http://www.thebible.net/video/</url>
+            <domain>www.thebible.net</domain>
+            <title>
+              TheBible.net | Basic <hlword>Bible</hlword> Studies
+            </title>
+            <modtime>20090521T215532</modtime>
+            <size>1423</size>
+            <charset>windows-1252</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword>-related articles and study resources.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z4DE49C8CBAD06416">
+            <relevance />
+            <url>https://en.wikipedia.org/wiki/Islamic_view_of_the_Bible</url>
+            <domain>en.wikipedia.org</domain>
+            <title>
+              Islamic view of the <hlword>Bible</hlword> - Wikipedia
+            </title>
+            <headline>The Quran mentions the Torah, the Zabur (&quot;Psalms&quot;) and the Injil (&quot;Gospel&quot;) as being revealed by God to the prophets Moses, David and Jesus respectively in the same way the Quran was revealed to Muhammad, the final prophet and messenger of God according to Muslims.</headline>
+            <modtime>20150316T185118</modtime>
+            <size>2738</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZDC7B9A1C5A06265F">
+            <relevance />
+            <url>https://www.bible.com/tl</url>
+            <domain>www.bible.com</domain>
+            <title>
+              Basahin ang Biblia. Libreng Biblia sa iyong telepono, tablet... | <hlword>Bible</hlword>.com
+            </title>
+            <modtime>20100424T180514</modtime>
+            <size>838</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Gamit ang YouVersion <hlword>Bible</hlword> App, maaring magbasa, manood, makinig, at magbahagi sa iyong smartphone o tablet, at online sa <hlword>Bible</hlword>.com.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>tl</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZEE6ED2A3FE4C8EB9">
+            <relevance />
+            <url>http://thebible.com/</url>
+            <domain>thebible.com</domain>
+            <title>
+              The <hlword>Bible</hlword>
+            </title>
+            <headline>Skip to content. ©2020 TheBible.com.</headline>
+            <modtime>20140409T202810</modtime>
+            <size>46</size>
+            <charset>utf-8</charset>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="Z544325F9F6F3968A">
+            <relevance />
+            <url>https://www.biblegateway.com/versions/Common-English-Bible-CEB/</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              Common English <hlword>Bible</hlword> (CEB) - Version Information - BibleGateway.com
+            </title>
+            <modtime>20170828T080344</modtime>
+            <size>9197</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                <hlword>Bible</hlword> (CEB) Complete Jewish <hlword>Bible</hlword> (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA)...
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZFF78022FCA2A17BB">
+            <relevance />
+            <url>https://www.biblegateway.com/bible-audio-app/</url>
+            <domain>www.biblegateway.com</domain>
+            <title>
+              <hlword>Bible</hlword> Audio App
+            </title>
+            <modtime>20180430T220131</modtime>
+            <size>2880</size>
+            <charset>utf-8</charset>
+            <passages>
+              <passage>
+                Immerse Yourself in the <hlword>Bible</hlword> with the free <hlword>Bible</hlword> Audio App. Your favorite <hlword>Bible</hlword> passages are now available to listen to on iPad, iPhone, and Android devices.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+        <group>
+          <doccount>1</doccount>
+          <relevance />
+          <doc id="ZC360060ECE0254E3">
+            <relevance />
+            <url>https://biblecc.com/</url>
+            <domain>biblecc.com</domain>
+            <title>
+              Online Parallel <hlword>Bible</hlword>
+            </title>
+            <modtime>20110405T011249</modtime>
+            <size>349</size>
+            <charset>windows-1252</charset>
+            <passages>
+              <passage>
+                Online Parallel <hlword>Bible</hlword>: Weaving God's Word into the Web.
+              </passage>
+            </passages>
+            <properties>
+              <_PassagesType>0</_PassagesType>
+              <lang>en</lang>
+            </properties>
+            <mime-type>text/html</mime-type>
+          </doc>
+        </group>
+      </grouping>
+    </results>
+  </response>
+</yandexsearch>

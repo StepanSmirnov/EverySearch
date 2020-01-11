@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EverySearch.Lib;
 using EverySearch.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +33,7 @@ namespace EverySearch
                 options.UseSqlServer(connection);
             });
             services.AddMvc();
+            services.AddSingleton<SearchManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
