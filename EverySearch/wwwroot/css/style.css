@@ -1,0 +1,44 @@
+﻿html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: antiquewhite;
+    color: rgb(76, 120, 172);
+    font-family: 'Arial Rounded MT';
+}
+
+.hcenter {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#NewSearchView{
+    margin-top:15%;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#NewSearchView input{
+    line-height:30px;
+    margin: 5px;
+}
+
+#NewSearchView input[type=submit] {
+    background-image: url("../Images/1-06-512.png");
+    background-repeat:round;
+    width:36px;
+    border: none;
+    background-color: transparent;
+}
+
+#NewSearchView input[type=text] {
+    width: 300px;
+}
+
+

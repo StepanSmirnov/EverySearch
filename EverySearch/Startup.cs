@@ -31,7 +31,7 @@ namespace EverySearch
             {
                 options.UseSqlServer(connection);
             });
-            services.AddMvcCore();
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,12 +42,13 @@ namespace EverySearch
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles();
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "/{controller=Search}/{action=New}/{id?}"
+                    pattern: "/{controller=Searches}/{action=New}/{id?}"
                     );
             });
         }
