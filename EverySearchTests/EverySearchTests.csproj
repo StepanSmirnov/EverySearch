@@ -9,7 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\response.xml" />
+    <None Remove="Resources\google.json" />
+    <None Remove="Resources\yandex.xml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,7 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\response.xml" />
+    <EmbeddedResource Include="Resources\google.json" />
+    <EmbeddedResource Include="Resources\yandex.xml" />
   </ItemGroup>
 
 </Project>

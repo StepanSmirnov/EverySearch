@@ -16,6 +16,7 @@ namespace EverySearchTests
     public class ProvidersTest
     {
         private IConfiguration configuration;
+        private readonly string resourcesDir = "EverySearchTests.Resources.";
 
         [SetUp]
         public void Setup()
@@ -42,6 +43,16 @@ namespace EverySearchTests
         }
 
         [Test]
+        public void TestGoogleParse()
+        {
+            SearchProvider search = new GoogleProvider(configuration);
+            string filename = "google.json";
+            string json = ReadResource(resourcesDir + filename);
+            var response = search.ParseResult(json);
+            Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", System.StringComparison.InvariantCultureIgnoreCase)));
+        }
+
+        [Test]
         public void TestYandexUrl()
         {
             SearchProvider search = new YandexProvider(configuration);
@@ -61,14 +72,19 @@ namespace EverySearchTests
         public void TestYandexParse()
         {
             SearchProvider search = new YandexProvider(configuration);
-            Assembly thisAssembly = Assembly.GetExecutingAssembly();
-            Console.WriteLine(String.Join(" ",(thisAssembly.GetManifestResourceNames())));
-            string path = "EverySearchTests.Resources";
-            string filename = "response.xml";
-            var reader = new StreamReader(thisAssembly.GetManifestResourceStream(path + "." + filename));
-            string xml = reader.ReadToEnd();
+            string filename = "yandex.xml";
+            string xml = ReadResource(resourcesDir + filename);
             var response = search.ParseResult(xml);
             Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", System.StringComparison.InvariantCultureIgnoreCase)));
+        }
+
+        private static string ReadResource(string path)
+        {
+            Assembly thisAssembly = Assembly.GetExecutingAssembly();
+            Console.WriteLine(String.Join(" ", (thisAssembly.GetManifestResourceNames())));
+            var reader = new StreamReader(thisAssembly.GetManifestResourceStream(path));
+            string xml = reader.ReadToEnd();
+            return xml;
         }
     }
 }

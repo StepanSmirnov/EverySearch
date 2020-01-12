@@ -18,5 +18,7 @@ namespace EverySearch.Models
         
         [Required]
         public DateTime Timestamp { get; set; }
+
+        public virtual ICollection<SearchResult> SearchResults { get; set; }
     }
 }

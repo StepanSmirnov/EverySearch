@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using EverySearch.Lib;
 using EverySearch.Models;
 using Microsoft.AspNetCore.Mvc;
+using static Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions;
 
 namespace EverySearch.Controllers
 {
@@ -19,12 +20,6 @@ namespace EverySearch.Controllers
             this.searchManager = searchManager;
         }
 
-        private async Task DoSomething()
-        {
-            await Task.Run(delegate() { System.Threading.Thread.Sleep(3000); });
-            return;
-        }
-
         public IActionResult New()
         {
             return View();
@@ -35,16 +30,22 @@ namespace EverySearch.Controllers
         {
             Search search = new Search();
             search.Query = query;
-            
             search.Timestamp = DateTime.Now;
-            await DoSomething();
-            return Json(new { code = 200 });
+            context.Searches.Add(search);
+            var result = await searchManager.ExecuteQueryAsync(query);
+            foreach (var item in result)
+            {
+                item.Search = search;
+                context.SearchResults.Add(item);
+            }
+            context.SaveChanges();
+            return RedirectToAction("Show", new { search.Id });
         }
 
         public async Task<IActionResult> ShowAsync(int Id)
         {
-            //context.Searches.Find;
-            return View();
+            Search search = await context.Searches.Include(s => s.SearchResults).SingleAsync(s => s.Id == Id);
+            return View(search);
         }
     }
 }

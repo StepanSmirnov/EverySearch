@@ -40,6 +40,11 @@ namespace EverySearch.Lib
             XmlDocument doc = new XmlDocument();
             doc.LoadXml(result);
             XmlElement root = doc.DocumentElement;
+            var error = root.SelectSingleNode("/yandexsearch/response/error");
+            if (error != null)
+            {
+                throw new ArgumentException(error.InnerText);
+            }
             var docs = root.SelectNodes("/yandexsearch/response/results/grouping//doc");
             List<SearchResult> searchResults = new List<SearchResult>();
             for (int i = 0; i < docs.Count; i++)

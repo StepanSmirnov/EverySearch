@@ -6,50 +6,55 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
+using SearchResultSet = System.Collections.Generic.IEnumerable<EverySearch.Models.SearchResult>;
 
 namespace EverySearch.Lib
 {
     public class SearchManager
     {
+        private readonly ILogger<SearchManager> logger;
         private List<SearchProvider> searchProviders;
-        private int isExecuted = 0;
 
-        public SearchManager(IConfiguration configuration)
+        public SearchManager(IConfiguration configuration, ILogger<SearchManager> logger)
         {
             searchProviders = new List<SearchProvider>
             {
-                new GoogleProvider(configuration)
+                //new GoogleProvider(configuration),
+                new YandexProvider(configuration)
             };
+            this.logger = logger;
         }
 
-        public void ExecuteQuery(string query, Action<IEnumerable<SearchResult>> onSuccess, Action<string> onError)
+        public async Task<SearchResultSet> ExecuteQueryAsync(string query)
         {
-            isExecuted = 0;
-            Task<IEnumerable<SearchResult>>[] tasks = new Task<IEnumerable<SearchResult>>[searchProviders.Count];
+            List<Task<SearchResultSet>> tasks = new List<Task<SearchResultSet>>();
             foreach (var item in searchProviders)
             {
-                tasks.Append(Task.Run(() => ConcurrentExec(item, query, onSuccess)));
+                tasks.Add(Task<SearchResultSet>.Run(() => ConcurrentExec(item, query)));
             }
-            Task.WaitAll(tasks);
-            if (isExecuted == 0)
+            while (tasks.Count() > 0)
             {
-                onError("fatal error");
+                var task = await Task.WhenAny(tasks);
+                if (task.Result != null)
+                {
+                    return task.Result;
+                }
+                tasks.Remove(task);
             }
+            return new List<SearchResult>();
         }
 
-        private void ConcurrentExec(SearchProvider provider, string query, Action<IEnumerable<SearchResult>> onSuccess)
+        private SearchResultSet ConcurrentExec(SearchProvider provider, string query)
         {
             try
             {
-                IEnumerable<SearchResult>  result = provider.ExecuteQuery(query);
-                Interlocked.CompareExchange(ref isExecuted, 1, 0);
-                if (isExecuted == 1)
-                {
-                    onSuccess(result);
-                }
+                return provider.ExecuteQuery(query);
             }
-            catch (Exception)
+            catch (Exception e)
             {
+                logger.LogError(e, "Exception while executing query '{query}' by provider {provider}", query, provider.GetType().Name);
+                return null;
             }
         }
     }

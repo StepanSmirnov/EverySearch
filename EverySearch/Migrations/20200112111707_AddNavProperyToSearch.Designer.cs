@@ -4,14 +4,16 @@ using EverySearch.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EverySearch.Migrations
 {
     [DbContext(typeof(EverySearchContext))]
-    partial class EverySearchContextModelSnapshot : ModelSnapshot
+    [Migration("20200112111707_AddNavProperyToSearch")]
+    partial class AddNavProperyToSearch
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

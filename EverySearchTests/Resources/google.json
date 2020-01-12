@@ -1,0 +1,378 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Bible",
+        "totalResults": "438000000",
+        "searchTerms": "Bible",
+        "count": 8,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016586796609801033192:qh5kueh6d0l"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Bible",
+        "totalResults": "438000000",
+        "searchTerms": "Bible",
+        "count": 8,
+        "startIndex": 9,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016586796609801033192:qh5kueh6d0l"
+      }
+    ]
+  },
+  "context": {
+    "title": "GoogleSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.488359,
+    "formattedSearchTime": "0.49",
+    "totalResults": "438000000",
+    "formattedTotalResults": "438,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "BibleGateway.com: A searchable online Bible in over 150 versions ...",
+      "htmlTitle": "BibleGateway.com: A searchable online \u003cb\u003eBible\u003c/b\u003e in over 150 versions ...",
+      "link": "https://www.biblegateway.com/",
+      "displayLink": "www.biblegateway.com",
+      "snippet": "Read, hear, and study Scripture at the world's most-visited Christian website. \nGrow your faith with devotionals, Bible reading plans, and mobile apps.",
+      "htmlSnippet": "Read, hear, and study Scripture at the world&#39;s most-visited Christian website. \u003cbr\u003e\nGrow your faith with devotionals, \u003cb\u003eBible\u003c/b\u003e reading plans, and mobile apps.",
+      "cacheId": "PA012YSCgF8J",
+      "formattedUrl": "https://www.biblegateway.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ebible\u003c/b\u003egateway.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "200",
+            "height": "200",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0kskpvRswU-cwhdM9Gf9P9joaQrNOetU-QHhf-4qI5DzK3gg4o9u8b3RD"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "og:image": "https://www.biblegateway.com/assets/images/logos/logo_bg-sharing.png?02581c9c",
+            "og:image:secure_url": "https://www.biblegateway.com/assets/images/logos/logo_bg-sharing.png?02581c9c",
+            "og:image:type": "image/png",
+            "og:image:width": "200",
+            "og:image:height": "200",
+            "apple-itunes-app": "app-id=506512797, affiliate-data=bg-home",
+            "application-name": "BibleGateway",
+            "msapplication-tooltip": "A searchable online Bible in over 100 versions and 50 languages",
+            "msapplication-starturl": "/",
+            "msapplication-task": "name=Passage Lookup;action-uri=https://www.biblegateway.com/passage/;icon-uri=/favicon.ico"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.biblegateway.com/assets/images/logos/logo_bg-sharing.png?02581c9c"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Read the Bible. A free Bible on your phone, tablet, and computer ...",
+      "htmlTitle": "Read the \u003cb\u003eBible\u003c/b\u003e. A free \u003cb\u003eBible\u003c/b\u003e on your phone, tablet, and computer ...",
+      "link": "https://www.bible.com/",
+      "displayLink": "www.bible.com",
+      "snippet": "Bring the beauty and truth of the Bible into everyday life. With the YouVersion \nBible App, you can read, watch, listen, and share on your smartphone or tablet, ...",
+      "htmlSnippet": "Bring the beauty and truth of the \u003cb\u003eBible\u003c/b\u003e into everyday life. With the YouVersion \u003cbr\u003e\n\u003cb\u003eBible\u003c/b\u003e App, you can read, watch, listen, and share on your smartphone or tablet,&nbsp;...",
+      "cacheId": "RIWaFx6oyoAJ",
+      "formattedUrl": "https://www.bible.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ebible\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "120",
+            "height": "120",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzGk4crEp2_xzb0-cBbEG32j9clkWYjnfBY3krIXPoqBeuMtfCEMC5"
+          }
+        ],
+        "metatags": [
+          {
+            "fragment": "!",
+            "google-signin-client_id": "201895780642-g4oj7hm4p3h81eg7b1di2l2l93k5gcm3.apps.googleusercontent.com",
+            "google-signin-scope": "profile email",
+            "csrf-param": "authenticity_token",
+            "csrf-token": "x2lyvZ41rdyIToekfRdZ1mBjm7RFUsRiwna/1zFKvPU=",
+            "twitter:image": "/assets/icons/bible/121/en-647fba4b05a37a47cb180849717279b9.png",
+            "og:image": "/assets/icons/bible/200/en-df9e42178ce28600ec4049a9dc80d818.png",
+            "handheldfriendly": "True",
+            "mobileoptimized": "320",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "msapplication-id": "af5f6405-7860-49a9-a6b4-a47381974e1d",
+            "msapplication-packagefamilyname": "LifeChurch.tv.Bible_d1phjsdba8cbj",
+            "url": "https://www.bible.com/",
+            "og:title": "Read the Bible. A free Bible on your phone, tablet, and computer.",
+            "og:url": "https://www.bible.com/",
+            "og:description": "Read God’s Word at anytime, anywhere using the YouVersion Bible App. Share Scripture with friends, highlight and bookmark passages, and create a daily habit with Bible Plans. Available for iOS, Android, Blackberry, Windows Phone and more.",
+            "twitter:card": "summary",
+            "twitter:url": "https://www.bible.com/",
+            "twitter:title": "Read the Bible. A free Bible on your phone, tablet, and computer.",
+            "twitter:description": "Read God’s Word at anytime, anywhere using the YouVersion Bible App. Share Scripture with friends, highlight and bookmark passages, and create a daily habit with Bible Plans. Available for iOS, Android, Blackberry, Windows Phone and more.",
+            "twitter:site": "@YouVersion"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.bible.com/assets/icons/bible/120/en-7854c81f0931779f0b2dada729143979.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bible - Wikipedia",
+      "htmlTitle": "\u003cb\u003eBible\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bible",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "The Bible is a collection of sacred texts or scriptures. Varying parts of the Bible \nare considered to be a product of divine inspiration and a record of the ...",
+      "htmlSnippet": "The \u003cb\u003eBible\u003c/b\u003e is a collection of sacred texts or scriptures. Varying parts of the \u003cb\u003eBible\u003c/b\u003e \u003cbr\u003e\nare considered to be a product of divine inspiration and a record of the&nbsp;...",
+      "cacheId": "urmHWH8Hp-AJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Bible",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBible\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "284",
+            "height": "177",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcIQHDacqUCgk4RB3uBtHNiOB62ogSajzFhK7KuR3OWl-40n_Dufxe_pIq"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/1200px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/1200px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Read & Study The Bible - Daily Verse, Scripture by Topic, Stories",
+      "htmlTitle": "Read &amp; Study The \u003cb\u003eBible\u003c/b\u003e - Daily Verse, Scripture by Topic, Stories",
+      "link": "https://www.biblestudytools.com/",
+      "displayLink": "www.biblestudytools.com",
+      "snippet": "Use our free online Bible to better know the Word of God. Read verses by topic, \nstudy Scripture with commentary while using our large library of biblical ...",
+      "htmlSnippet": "Use our free online \u003cb\u003eBible\u003c/b\u003e to better know the Word of God. Read verses by topic, \u003cbr\u003e\nstudy Scripture with commentary while using our large library of \u003cb\u003ebiblical\u003c/b\u003e&nbsp;...",
+      "cacheId": "lSOHbfPiAr0J",
+      "formattedUrl": "https://www.biblestudytools.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003ebibles\u003c/b\u003etudytools.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "310",
+            "height": "163",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEym-LeVxTNh6JwQFoh4sVSHgLX9DixwzDo0k-WciokTHWUxIf4mEKgSC"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "summary": "Use our free online Bible to better know the Word of God. Read verses by topic, study Scripture with commentary while using our large library of biblical resources.",
+            "apple-itunes-app": "app-id=396906089",
+            "fb:app_id": "181422715230548",
+            "og:title": "Read & Study The Bible - Daily Verse, Scripture by Topic, Stories",
+            "og:url": "https://www.biblestudytools.com/",
+            "og:image": "https://media.swncdn.com/bst4/logo-extralarge.png",
+            "og:site_name": "Bible Study Tools",
+            "og:description": "Use our free online Bible to better know the Word of God. Read verses by topic, study Scripture with commentary while using our large library of biblical resources.",
+            "fb:pages": "96338023929"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.swncdn.com/bst4/logo-extralarge.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Blue Letter Bible: Bible Search and Study Tools",
+      "htmlTitle": "Blue Letter \u003cb\u003eBible\u003c/b\u003e: \u003cb\u003eBible\u003c/b\u003e Search and Study Tools",
+      "link": "https://www.blueletterbible.org/",
+      "displayLink": "www.blueletterbible.org",
+      "snippet": "Read and study God's Word with Bible study software that has in-depth resources \nsuch as commentaries, Greek and Hebrew word tools, concordances, and ...",
+      "htmlSnippet": "Read and study God&#39;s Word with \u003cb\u003eBible\u003c/b\u003e study software that has in-depth resources \u003cbr\u003e\nsuch as commentaries, Greek and Hebrew word tools, concordances, and&nbsp;...",
+      "cacheId": "4v3N1KxhSTkJ",
+      "formattedUrl": "https://www.blueletterbible.org/",
+      "htmlFormattedUrl": "https://www.blueletter\u003cb\u003ebible\u003c/b\u003e.org/",
+      "pagemap": {
+        "metatags": [
+          {
+            "handheldfriendly": "True",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "application-name": "Blue Letter Bible",
+            "msapplication-tilecolor": "#FFFFFF",
+            "msapplication-tileimage": "/assets/images/favicon/mstile-144x144.png",
+            "msapplication-square70x70logo": "/assets/images/favicon/mstile-70x70.png",
+            "msapplication-square150x150logo": "/assets/images/favicon/mstile-150x150.png",
+            "msapplication-wide310x150logo": "/assets/images/favicon/mstile-310x150.png",
+            "msapplication-square310x310logo": "/assets/images/favicon/mstile-310x310.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "YouVersion: Creating experiences to encourage & challenge people ...",
+      "htmlTitle": "YouVersion: Creating experiences to encourage &amp; challenge people ...",
+      "link": "https://www.youversion.com/",
+      "displayLink": "www.youversion.com",
+      "snippet": "YouVersion creates biblically centered, relevant experiences that encourage \npeople to seek God every day: The Bible App, Bible App for Kids, Bible Lens.",
+      "htmlSnippet": "YouVersion creates biblically centered, relevant experiences that encourage \u003cbr\u003e\npeople to seek God every day: The \u003cb\u003eBible\u003c/b\u003e App, \u003cb\u003eBible\u003c/b\u003e App for Kids, \u003cb\u003eBible\u003c/b\u003e Lens.",
+      "cacheId": "iwCrPui1OckJ",
+      "formattedUrl": "https://www.youversion.com/",
+      "htmlFormattedUrl": "https://www.youversion.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "225",
+            "height": "225",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAaNcpIEer8SGZGdBXhloQeluTO5aXXuTXDSvTS4-5n9y8sB4u-WoItWs"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:type": "website",
+            "og:title": "YouVersion: Creating experiences to encourage & challenge people to seek God daily.",
+            "og:description": "YouVersion creates biblically centered, relevant experiences that encourage people to seek God every day: The Bible App, Bible App for Kids, Bible Lens",
+            "og:url": "https://www.youversion.com/",
+            "og:site_name": "YouVersion",
+            "twitter:card": "summary",
+            "twitter:description": "YouVersion creates biblically centered, relevant experiences that encourage people to seek God every day: The Bible App, Bible App for Kids, Bible Lens",
+            "twitter:title": "YouVersion: Creating experiences to encourage & challenge people to seek God daily.",
+            "msapplication-tileimage": "https://www.youversion.com/wp-content/uploads/2018/01/cropped-Bible-app-icon-512-EN-270x270.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.youversion.com/wp-content/uploads/2017/08/image4-600x600.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Online Bible | Biblica - The International Bible Society",
+      "htmlTitle": "Online \u003cb\u003eBible\u003c/b\u003e | Biblica - The International \u003cb\u003eBible\u003c/b\u003e Society",
+      "link": "https://www.biblica.com/bible/",
+      "displayLink": "www.biblica.com",
+      "snippet": "Read the Bible online, in The New International Version (NIV), or a variety of \nother languages and translations.",
+      "htmlSnippet": "Read the \u003cb\u003eBible\u003c/b\u003e online, in The New International Version (NIV), or a variety of \u003cbr\u003e\nother languages and translations.",
+      "cacheId": "rQv19St1vjoJ",
+      "formattedUrl": "https://www.biblica.com/bible/",
+      "htmlFormattedUrl": "https://www.biblica.com/\u003cb\u003ebible\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "310",
+            "height": "163",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-heO0caE4nwbhsw1Z9Hq99ZdKXkVYJK0B3s9pgvWQsxQDqIgNL77zdxl"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:type": "website",
+            "og:title": "Genesis 1 - New International Version (NIV)",
+            "og:url": "https://www.biblica.com/bible/",
+            "og:site_name": "Biblica",
+            "og:image": "https://downloads.biblica.com/social-media/images/online_bible_social_share.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "Genesis 1 - New International Version (NIV)",
+            "twitter:description": "Read the Bible online, in The New International Version (NIV), or a variety of other languages and translations.",
+            "twitter:site": "@BiblicaMinistry",
+            "twitter:image": "https://downloads.biblica.com/social-media/images/online_bible_social_share.jpg",
+            "fb:pages": "80061786115",
+            "msapplication-tilecolor": "#ffffff",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "theme-color": "#ffffff"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://downloads.biblica.com/social-media/images/online_bible_social_share.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "\u200eBible on the App Store",
+      "htmlTitle": "\u200e\u003cb\u003eBible\u003c/b\u003e on the App Store",
+      "link": "https://apps.apple.com/us/app/bible/id282935706",
+      "displayLink": "apps.apple.com",
+      "snippet": "Read reviews, compare customer ratings, see screenshots, and learn more about \nBible. Download Bible and enjoy it on your iPhone, iPad, and iPod touch.",
+      "htmlSnippet": "Read reviews, compare customer ratings, see screenshots, and learn more about \u003cbr\u003e\n\u003cb\u003eBible\u003c/b\u003e. Download \u003cb\u003eBible\u003c/b\u003e and enjoy it on your iPhone, iPad, and iPod touch.",
+      "cacheId": "UNuMeqPoAwkJ",
+      "formattedUrl": "https://apps.apple.com/us/app/bible/id282935706",
+      "htmlFormattedUrl": "https://apps.apple.com/us/app/\u003cb\u003ebible\u003c/b\u003e/id282935706",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "310",
+            "height": "163",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZapP9q5DmxJOj-nCjSk0UTPMYdIR-fg5D_NfDEd2GLpaV3Z-WAbDc8lw"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22/%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22contentSecurityPolicyMeta%22%3Atrue%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%5B%22%27none%27%22%5D%2C%22img-src%22%3A%5B%22%27self%27%22%2C%22http%3A//*.mzstatic.com%22%2C%22*.mzstatic.com%22%2C%22*.apple.com%22%2C%22*.googleusercontent.com%22%2C%22data%3A%22%5D%2C%22style-src%22%3A%5B%22%27self%27%22%2C%22%27unsafe-inline%27%22%2C%22*.apple.com%22%5D%2C%22font-src%22%3A%5B%22%27self%27%22%2C%22http%3A//*.apple.com%22%2C%22https%3A//*.apple.com%22%5D%2C%22media-src%22%3A%5B%22%27self%27%22%2C%22blob%3A%22%2C%22http%3A//*%22%2C%22https%3A//*%22%5D%2C%22connect-src%22%3A%5B%22%27self%27%22%2C%22*.apple.com%22%2C%22https%3A//*.mzstatic.com%22%2C%22*.mzstatic.com%22%5D%2C%22script-src%22%3A%5B%22%27self%27%22%2C%22%27unsafe-inline%27%22%2C%22%27unsafe-eval%27%22%2C",
+            "og:title": "\u200eBible",
+            "og:description": "\u200eOn more than 350 million devices around the world, people are reading, listening to, watching, and sharing the Bible using the #1 rated Bible App—completely free. Over 1,000 Bible versions, in hundreds of languages. Hundreds of Reading Plans, in over 40 languages. Add your own Verse Images, highligh…",
+            "og:site_name": "App Store",
+            "og:url": "https://apps.apple.com/us/app/bible/id282935706",
+            "og:image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/36/41/52/364152e0-97ee-51aa-c513-8ad12cde4c91/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "og:image:alt": "Bible on the App Store",
+            "og:image:secure_url": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/36/41/52/364152e0-97ee-51aa-c513-8ad12cde4c91/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "og:image:type": "image/png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:type": "website",
+            "og:locale": "en_US",
+            "fb:app_id": "116556461780510",
+            "twitter:title": "\u200eBible",
+            "twitter:description": "\u200eOn more than 350 million devices around the world, people are reading, listening to, watching, and sharing the Bible using the #1 rated Bible App—completely free. Over 1,000 Bible versions, in hundreds of languages. Hundreds of Reading Plans, in over 40 languages. Add your own Verse Images, highligh…",
+            "twitter:site": "@AppStore",
+            "twitter:domain": "AppStore",
+            "twitter:image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/36/41/52/364152e0-97ee-51aa-c513-8ad12cde4c91/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png",
+            "twitter:image:alt": "Bible on the App Store",
+            "twitter:card": "summary_large_image",
+            "apple-itunes-app": "app-id=375380948, app-argument=https://apps.apple.com/us/app/bible/id282935706",
+            "apple:content_id": "282935706",
+            "version": "1950.3.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/36/41/52/364152e0-97ee-51aa-c513-8ad12cde4c91/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+          }
+        ]
+      }
+    }
+  ]
+}

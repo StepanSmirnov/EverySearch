@@ -33,7 +33,7 @@ namespace EverySearch
                 options.UseSqlServer(connection);
             });
             services.AddMvc();
-            services.AddSingleton<SearchManager>();
+            services.AddTransient<SearchManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

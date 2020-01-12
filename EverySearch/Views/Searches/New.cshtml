@@ -1,7 +1,7 @@
-﻿@model RouteAttribute
-<div id="NewSearchView" class="hcenter">
-    <h1>Yagle Search</h1>
-    <form asp-controller="Searches" asp-action="New" method="post">
-        <input type="text" name="query" placeholder="search query"/><input type="submit" value=" "/>
+﻿<div id="newSearchView" class="hcenter">
+    <h1>Binglex Search</h1>
+    <form class="searchForm" asp-controller="Searches" asp-action="Create" method="post">
+        <input type="text" name="query" placeholder="search query"/>
+        <input type="submit" value=" "/>
     </form>
 </div>
