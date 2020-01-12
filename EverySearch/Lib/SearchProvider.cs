@@ -17,10 +17,9 @@ namespace EverySearch.Lib
             InitializeCredentials(configuration);
         }
 
-        public IEnumerable<SearchResult> ExecuteQuery(string query, int? count = null)
+        public IEnumerable<SearchResult> ExecuteQuery(string query, int? count)
         {
-            string url = MakeRequestUrl(query, count);
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+            HttpWebRequest request = MakeRequest(query, count);
 
             string html = string.Empty;
             using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
@@ -34,7 +33,7 @@ namespace EverySearch.Lib
 
         protected abstract void InitializeCredentials(IConfiguration configuration);
 
-        public abstract string MakeRequestUrl(string query, int? count);
+        public abstract HttpWebRequest MakeRequest(string query, int? count);
 
         public abstract IEnumerable<SearchResult> ParseResult(string result);
     }

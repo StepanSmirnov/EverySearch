@@ -20,18 +20,19 @@ namespace EverySearch.Lib
         {
             searchProviders = new List<SearchProvider>
             {
-                //new GoogleProvider(configuration),
-                new YandexProvider(configuration)
+                new GoogleProvider(configuration),
+                new YandexProvider(configuration),
+                new BingProvider(configuration)
             };
             this.logger = logger;
         }
 
-        public async Task<SearchResultSet> ExecuteQueryAsync(string query)
+        public async Task<SearchResultSet> ExecuteQueryAsync(string query, int? count = null)
         {
             List<Task<SearchResultSet>> tasks = new List<Task<SearchResultSet>>();
             foreach (var item in searchProviders)
             {
-                tasks.Add(Task<SearchResultSet>.Run(() => ConcurrentExec(item, query)));
+                tasks.Add(Task<SearchResultSet>.Run(() => ConcurrentExec(item, query, count)));
             }
             while (tasks.Count() > 0)
             {
@@ -45,11 +46,12 @@ namespace EverySearch.Lib
             return new List<SearchResult>();
         }
 
-        private SearchResultSet ConcurrentExec(SearchProvider provider, string query)
+        private SearchResultSet ConcurrentExec(SearchProvider provider, string query, int? count)
         {
             try
             {
-                return provider.ExecuteQuery(query);
+                var res = provider.ExecuteQuery(query, count);
+                return res;
             }
             catch (Exception e)
             {

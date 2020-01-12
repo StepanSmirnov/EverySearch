@@ -32,7 +32,7 @@ namespace EverySearch.Controllers
             search.Query = query;
             search.Timestamp = DateTime.Now;
             context.Searches.Add(search);
-            var result = await searchManager.ExecuteQueryAsync(query);
+            var result = await searchManager.ExecuteQueryAsync(query, 10);
             foreach (var item in result)
             {
                 item.Search = search;

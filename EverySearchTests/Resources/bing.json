@@ -1,0 +1,1696 @@
+﻿{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Bible"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Bible",
+    "totalEstimatedMatches": 158000000,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+        "name": "Read the Bible. A free Bible on your phone, tablet, and ...",
+        "url": "https://www.bible.com/",
+        "displayUrl": "https://www.bible.com",
+        "snippet": "Bring the beauty and truth of the Bible into everyday life. With the YouVersion Bible App, you can read, watch, listen, and share on your smartphone or tablet, and online at Bible.com.",
+        "deepLinks": [
+          {
+            "name": "The Bible APP for Kids",
+            "url": "https://www.bible.com/kids/"
+          },
+          {
+            "name": "Versions",
+            "url": "https://www.bible.com/versions"
+          },
+          {
+            "name": "Videos",
+            "url": "https://www.bible.com/videos"
+          },
+          {
+            "name": "About",
+            "url": "https://www.bible.com/about"
+          },
+          {
+            "name": "King James Version",
+            "url": "https://www.bible.com/versions/1-kjv-king-james-version"
+          }
+        ],
+        "dateLastCrawled": "2020-01-09T10:04:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+        "name": "Читайте Библию. Бесплатная ... - Bible",
+        "url": "https://www.bible.com/ru",
+        "displayUrl": "https://www.bible.com/ru",
+        "snippet": "Внесите красоту и правду Библии в свою ежедневную жизнь. Используя приложение Библия, вы можете читать, смотреть, слушать и делиться стихами на своем смартфоне, планшете или онлайн в Bible.com",
+        "dateLastCrawled": "2020-01-07T11:11:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+        "name": "Bible - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bible",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Текст по лицензии CC-BY-SA"
+          }
+        ],
+        "about": [
+          {
+            "name": "Bible"
+          },
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://en.wikipedia.org/wiki/Bible",
+        "snippet": "The Bible (from Koine Greek τὰ βιβλία, tà biblía, \"the books\") is a collection of sacred texts or scriptures. Varying parts of the Bible are considered to be a product of divine inspiration and a record of the relationship between God and humans by Christians, Jews, Samaritans, and Rastafarians.",
+        "dateLastCrawled": "2020-01-09T09:53:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+        "name": "БИБЛИЯ онлайн – читать и ... - Bible",
+        "url": "https://bible.by/",
+        "displayUrl": "https://bible.by",
+        "snippet": "Библия в синодальном, современном и других переводах. Симфония, словари, собрание толкований и комментариев. Аудио Библия.",
+        "dateLastCrawled": "2020-01-08T16:45:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+        "name": "OFFICIAL KING JAMES BIBLE ONLINE: AUTHORIZED KING JAMES ...",
+        "url": "https://www.kingjamesbibleonline.org/",
+        "about": [
+          {
+            "name": "King James Version"
+          },
+          {
+            "name": "King James Version"
+          }
+        ],
+        "displayUrl": "https://www.kingjamesbibleonline.org",
+        "snippet": "King James Bible Online: Authorized King James Version (KJV) of the Bible- the preserved and living Word of God. Includes 1611 KJV and 1769 Cambridge KJV.",
+        "dateLastCrawled": "2019-12-25T05:21:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+        "name": "Bible Hub: Search, Read, Study the Bible in Many Languages",
+        "url": "https://biblehub.com/",
+        "about": [
+          {
+            "name": "Strong's Concordance"
+          }
+        ],
+        "displayUrl": "https://biblehub.com",
+        "snippet": "Bible Hub Online Parallel Bible, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries.",
+        "dateLastCrawled": "2020-01-06T03:15:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+        "name": "Bible.is | Experience the Word of God Like Never Before. Free.",
+        "url": "http://www.bible.is/",
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "www.bible.is",
+        "snippet": "Making the Word of God Accessible to All. Together with the ministry of Faith Comes By Hearing, Bible.is provides a vast library of Bible translations to bring God's church together making disciples from every nation, tribe, language, and people with the tools and technology of today.",
+        "dateLastCrawled": "2020-01-05T02:25:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+        "name": "Библия Онлайн",
+        "url": "https://bibleonline.ru/",
+        "displayUrl": "https://bibleonline.ru",
+        "snippet": "Библия Онлайн. И слово Господне распространялось по всей стране. (Деяния св. aпостолов)",
+        "dateLastCrawled": "2020-01-06T08:23:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+        "name": "Read & Study The Bible - Daily Verse, Scripture by Topic ...",
+        "url": "https://www.biblestudytools.com/",
+        "displayUrl": "https://www.biblestudytools.com",
+        "snippet": "Use our free online Bible to better know the Word of God. Read verses by topic, study Scripture with commentary while using our large library of biblical resources.",
+        "dateLastCrawled": "2020-01-09T14:05:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+        "name": "Bible.org | Where the World Comes to Study the Bible",
+        "url": "https://bible.org/",
+        "displayUrl": "https://bible.org",
+        "snippet": "Question and Answer with Bob. Over the years Bob Deffinbaugh has answered many emails from Bible.org users about the Bible and life. Some of these we have begun turning into a new Q/A series that you may find helpful as you apply God's Word to your life.",
+        "dateLastCrawled": "2020-01-05T05:26:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.10",
+        "name": "Bible - definition of Bible by The Free Dictionary",
+        "url": "https://www.thefreedictionary.com/Bible",
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://www.thefreedictionary.com/Bible",
+        "snippet": "BOOKS OF THE BIBLE. Books of the Hebrew Scriptures appear as listed in the translation by the Jewish Publication Society of America. Books of the Christian Bible appear as listed in the Jerusalem Bible, a 1966 translation of the 1956 French Roman Catholic version.",
+        "dateLastCrawled": "2020-01-06T00:40:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.11",
+        "name": "Online Bible | Biblica - The International Bible Society",
+        "url": "https://www.biblica.com/bible/",
+        "about": [
+          {
+            "name": "New International Version"
+          }
+        ],
+        "displayUrl": "https://www.biblica.com/bible",
+        "snippet": "Read the Bible online, in The New International Version (NIV), or a variety of other languages and translations.",
+        "dateLastCrawled": "2020-01-08T16:30:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.12",
+        "name": "YouVersion Bible App + Audio, Daily Verse, Ad Free - Apps ...",
+        "url": "https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=en_US",
+        "about": [
+          {
+            "name": "YouVersion"
+          }
+        ],
+        "displayUrl": "https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android",
+        "snippet": "READ THE BIBLE DAILY Experience the Bible App in any of 40+ languages Switch between 1,400+ Bible versions, 1,000+ languages Popular versions: King James Version KJV, New International Version NIV, New King James Version NKJV, New Living Translation NLT, ...",
+        "dateLastCrawled": "2020-01-08T21:21:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.13",
+        "name": "The Bible App - YouVersion",
+        "url": "https://www.youversion.com/the-bible-app/",
+        "about": [
+          {
+            "name": "YouVersion"
+          }
+        ],
+        "displayUrl": "https://www.youversion.com/the-bible-",
+        "snippet": "Already installed on over 405 million unique devices all over the world, the Bible App offers a free Bible experience for smartphones, tablets, and online at Bible.com.",
+        "dateLastCrawled": "2020-01-09T06:15:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.14",
+        "name": "La Bible en ligne",
+        "url": "https://info-bible.org/lsg/INDEX.html",
+        "displayUrl": "https://info-bible.org/lsg/INDEX.html",
+        "snippet": "La Bible en ligne gratuite en texte intégral (HTML). Traduction en français par Louis Segond",
+        "dateLastCrawled": "2020-01-08T19:43:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.15",
+        "name": "Bible - Simple English Wikipedia, the free encyclopedia",
+        "url": "https://simple.wikipedia.org/wiki/Bible",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Текст по лицензии CC-BY-SA"
+          }
+        ],
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://simple.wikipedia.org/wiki/Bible",
+        "snippet": "The Bible, also known as the Holy Bible, is a group of religious texts of Judaism or Christianity. The word Bible comes from the Greek word τὰ βιβλία (biblía) which means \"books\" in English, because it is many books in one book.",
+        "dateLastCrawled": "2020-01-05T11:36:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.16",
+        "name": "YouVersion: Creating experiences to encourage & challenge ...",
+        "url": "http://www.youversion.com/",
+        "about": [
+          {
+            "name": "YouVersion"
+          },
+          {
+            "name": "YouVersion"
+          }
+        ],
+        "displayUrl": "www.youversion.com",
+        "snippet": "YouVersion creates biblically centered, relevant experiences that encourage people to seek God every day: The Bible App, Bible App for Kids, Bible Lens",
+        "dateLastCrawled": "2020-01-09T11:02:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.17",
+        "name": "Get Bible - Microsoft Store",
+        "url": "https://www.microsoft.com/en-us/p/bible/9wzdncrfj1fd",
+        "displayUrl": "https://www.microsoft.com/en-us/p/bible/9wzdncrfj1fd",
+        "snippet": "Get the #1 rated and ranked Bible App for FREE. The Bible App makes it easy to read and share God's Word, with almost 300 free Bible versions and 200+ reading plans that help you read the Bible and track your progress.",
+        "dateLastCrawled": "2020-01-07T20:45:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.18",
+        "name": "Log In | Bible.is",
+        "url": "https://bible.is/",
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://bible.is",
+        "snippet": "Log In With Facebook Log In With Google+. OR. Email",
+        "dateLastCrawled": "2020-01-08T06:32:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.19",
+        "name": "‎Bible on the App Store",
+        "url": "https://apps.apple.com/us/app/bible/id282935706",
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://apps.apple.com/us/app/bible/id282935706",
+        "snippet": "Awesome app! Great bible app! It has the ability to read the scriptures to you while you read along which I absolutely LOVE! It has the ability to highlight and compare verses to other translations to try and understand the scriptures more fully.",
+        "dateLastCrawled": "2020-01-07T15:33:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.20",
+        "name": "The Holy Bible - King James Version",
+        "url": "http://www.o-bible.com/kjv.html",
+        "about": [
+          {
+            "name": "King James Version"
+          }
+        ],
+        "displayUrl": "www.o-bible.com/kjv.html",
+        "snippet": "The Holy Bible King James Version. Bible Scripture Interlinear King James Version Bible in Basic English",
+        "dateLastCrawled": "2020-01-05T12:04:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.21",
+        "name": "Bible Gateway passage: Genesis 1 - New International Version",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV",
+        "displayUrl": "https://www.biblegateway.com/passage/?search=Genesis 1&version=NIV",
+        "snippet": "The Beginning - In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the ...",
+        "dateLastCrawled": "2018-08-14T04:38:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.22",
+        "name": "em Bible : Lire et écouter la Bible en ligne",
+        "url": "https://emcitv.com/bible/",
+        "displayUrl": "https://emcitv.com/bible",
+        "snippet": "Bienvenue dans la Bible EnseigneMoi em-Bible. Vous pouvez lire la Bible, écouter et télécharger la Bible en audio au format mp3 mais aussi l'étudier grace au moteur de recherche et au lexique grec",
+        "dateLastCrawled": "2020-01-07T00:07:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.23",
+        "name": "New International Version Bible - Read Free Online",
+        "url": "https://www.biblestudytools.com/niv/",
+        "about": [
+          {
+            "name": "New International Version"
+          }
+        ],
+        "displayUrl": "https://www.biblestudytools.com/niv",
+        "snippet": "Search and read Bible verses using the popular New International Version (NIV) translation. Take notes online, highlight verses and save notes!",
+        "dateLastCrawled": "2020-01-08T20:35:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.24",
+        "name": "Bible — Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Bible",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Текст по лицензии CC-BY-SA"
+          }
+        ],
+        "about": [
+          {
+            "name": "Bible"
+          },
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://fr.wikipedia.org/wiki/Bible",
+        "snippet": "Le corpus biblique réunit plusieurs livres d'origines diverses, d'où le pluriel originel du mot « Bible ». Dès le début de sa formation, il existe plusieurs collections canoniques concurrentes de la Bible, chacune étant défendue par une communauté religieuse différente.",
+        "dateLastCrawled": "2020-01-04T12:18:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.25",
+        "name": "100% Free - Free.Bible - Download The Bible App Now ...",
+        "url": "http://free.bible/",
+        "displayUrl": "free.bible",
+        "snippet": "Read God’s Word at anytime, anywhere using the YouVersion Bible App. Share Scripture with friends, highlight and bookmark passages, and create a daily habit with Bible Plans. Available for iOS, Android, Blackberry, Windows Phone and more.",
+        "dateLastCrawled": "2020-01-06T15:34:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.26",
+        "name": "English Standard Version - Biblia",
+        "url": "https://biblia.com/",
+        "displayUrl": "https://biblia.com",
+        "snippet": "The Bible, and much more. Biblia is an online Bible study tool with dozens of Bibles for your Bible Study needs. It is a service of Faithlife / Logos Bible Software.",
+        "dateLastCrawled": "2020-01-05T04:05:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.27",
+        "name": "King James Version - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_James_Version",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "description",
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Текст по лицензии CC-BY-SA"
+          }
+        ],
+        "about": [
+          {
+            "name": "King James Version"
+          }
+        ],
+        "displayUrl": "https://en.wikipedia.org/wiki/King_James_Version",
+        "snippet": "The King James Version (KJV), also known as the King James Bible (KJB) or simply the Authorized Version (AV), is an English translation of the Christian Bible for the Church of England, begun in 1604 and completed as well as published in 1611 under the sponsorship of James VI and I.",
+        "dateLastCrawled": "2019-12-13T18:56:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.28",
+        "name": "Подкрепись! Библия онлайн. Твоя духовная пища на каждый день.",
+        "url": "http://www.allbible.info/",
+        "displayUrl": "www.allbible.info",
+        "snippet": "Сайт для ежедневного чтения и изучения Библии. Библия онлайн. Содержит 6 переводов Библии (на русском, английском и украинском языках), параллельные места, перевод греческих и еврейских ...",
+        "dateLastCrawled": "2020-01-08T20:04:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.29",
+        "name": "The Holy Bible - Bible in Basic English",
+        "url": "http://www.o-bible.com/bbe.html",
+        "about": [
+          {
+            "name": "Bible in Basic English"
+          },
+          {
+            "name": "Bible in Basic English"
+          }
+        ],
+        "displayUrl": "www.o-bible.com/bbe.html",
+        "snippet": "Download the Bible in Basic English. Includes search functionality, interlinear with KJV and Chinese translations.",
+        "dateLastCrawled": "2020-01-07T09:33:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.30",
+        "name": "The Bible Store - amazon.com",
+        "url": "https://www.amazon.com/Bibles-Christianity-Religion-Spirituality-Books/b?node=12059",
+        "displayUrl": "https://www.amazon.com/Bibles-Christianity-Religion-Spirituality-Books/b?node=12059",
+        "snippet": "Tyndale NLT Inspire Bible (Hardcover, Aquamarine): Journaling Bible with Over 400 Illustrations to Color, Coloring Bible with Creative Journal Space - Religious Gift that Inspires Connection with God",
+        "dateLastCrawled": "2019-12-30T04:43:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.31",
+        "name": "Библия, Евангелие, поиск по Библии. - Твоя Библия",
+        "url": "http://www.bible.com.ua/bible/",
+        "displayUrl": "www.bible.com.ua/bible",
+        "snippet": ".Поиск по Библии Вся БиблияВетхий ЗаветНовый Завет-книга Бытиекнига Исходкнига Левиткнига Числа",
+        "dateLastCrawled": "2020-01-04T22:19:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.32",
+        "name": "BibleServer – Entdecke deine Bibel.",
+        "url": "https://www.bibleserver.com/",
+        "about": [
+          {
+            "name": "Bibleserver.com"
+          }
+        ],
+        "displayUrl": "https://www.bibleserver.com",
+        "snippet": "BibleServer ist für mich ein absolut wertvolles Tool. Ich bin begeistert von der Transparenz, die man dadurch in der Bibel erlangen kann. Ich freue mich ganz besonders über den neuen Auftritt, durch den man Hintergrundinfos zu den biblischen Texten bekommt sowie viele weitere spannende Möglichkeiten, die Bibel neu zu entdecken.",
+        "dateLastCrawled": "2020-01-04T19:51:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.33",
+        "name": "The Bible - The Word of God - ChristNotes",
+        "url": "https://www.christianity.com/bible/",
+        "displayUrl": "https://www.christianity.com/bible",
+        "snippet": "For Christians to \"guard their hearts and minds\" in Christ Jesus (Philippians 4:7) means for them to be alert, through Christ's power and protection, to what enters and dwells in their hearts, because the Bible teaches that what we say and do, and who we become is the result of the state of our hearts.",
+        "dateLastCrawled": "2020-01-09T14:49:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.34",
+        "name": "Audio Bible Online",
+        "url": "http://www.audio-bible.com/bible/bible.html",
+        "about": [
+          {
+            "name": "King James Version"
+          }
+        ],
+        "displayUrl": "www.audio-bible.com/bible/bible.htm",
+        "snippet": "If this is your first visit to Audio Bible you may want to start at the beginning, so you will not miss any of the services or products we provide.",
+        "dateLastCrawled": "2020-01-06T15:02:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.35",
+        "name": "Online Bible—Read, Listen or Download Free: PDF, EPUB, Audio",
+        "url": "https://www.jw.org/en/library/bible/",
+        "about": [
+          {
+            "name": "New World Translation of the Holy Scriptures"
+          }
+        ],
+        "displayUrl": "https://www.jw.org/en/library/bible",
+        "snippet": "Read and listen to the Bible online, or download free audio recordings and sign-language videos of the Bible. The New World Translation of the Holy Scriptures is an accurate, easy-to-read translation of the Bible. It has been published in whole or in part in over 160 languages. More than 220 million",
+        "dateLastCrawled": "2020-01-06T09:54:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.36",
+        "name": "Все переводы Библии | Библия Онлайн",
+        "url": "https://bibleonline.ru/bible/",
+        "displayUrl": "https://bibleonline.ru/bible",
+        "snippet": "Библия Онлайн. И слово Господне распространялось по всей стране. (Деяния св. aпостолов)",
+        "dateLastCrawled": "2020-01-05T16:11:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.37",
+        "name": "Библия. Ответы на вопросы. - Твоя Библия",
+        "url": "http://www.bible.com.ua/",
+        "displayUrl": "www.bible.com.ua",
+        "snippet": "Сайт, посвященный изучению Библии. Ответы на вопросы посетителей по Библии, религиям, церкви и не только. Христианские новости. Библия с поиском и сравнением языков. Библиотека. Форум.",
+        "dateLastCrawled": "2020-01-07T22:09:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.38",
+        "name": "www.biblegateway.com",
+        "url": "https://www.biblegateway.com/passage/?search=search",
+        "displayUrl": "https://www.biblegateway.com/passage/?search=search",
+        "snippet": "301 Moved Permanently. The requested resource has been assigned a new permanent URI. Powered by Tengine",
+        "dateLastCrawled": "2018-08-20T06:31:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.39",
+        "name": "Толкования Священного Писания. Святые отцы о Священном Писании",
+        "url": "http://bible.optina.ru/",
+        "displayUrl": "bible.optina.ru",
+        "snippet": "По-настоящему, нам не следовало бы иметь и нужды в помощи Писаний, а надлежало бы вести жизнь столь чистую, чтобы вместо книг служила благодать Духа, и чтобы, как те исписаны чернилами, так и ...",
+        "dateLastCrawled": "2020-01-06T09:34:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.40",
+        "name": "Bible - Catholic Online",
+        "url": "https://www.catholic.org/bible/",
+        "about": [
+          {
+            "name": "New Jerusalem Bible"
+          }
+        ],
+        "displayUrl": "https://www.catholic.org/bible",
+        "snippet": "The New Jerusalem Bible (NJB) is a Catholic translation of the Bible published in 1985. The New Jerusalem Bible (NJB) has become the most widely used Roman Catholic Bible outside of the United States. It has the imprimatur of Cardinal George Basil Hume.",
+        "dateLastCrawled": "2020-01-08T13:43:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.41",
+        "name": "Христианские Знакомства Онлайн – Христианские знакомства ...",
+        "url": "https://marry.bible.ru/",
+        "displayUrl": "https://marry.bible.ru",
+        "snippet": "Вы сможете найти свою вторую половину для вступления в брак. Множество людей ищут будущую пару посредством сайтов знакомств.",
+        "dateLastCrawled": "2020-01-09T08:51:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.42",
+        "name": "Библия. Синодальный и другие переводы Библии, с ...",
+        "url": "http://jesuschrist.ru/bible/",
+        "displayUrl": "jesuschrist.ru/bible",
+        "snippet": "онлайновая Библия Добро пожаловать на страницу Библии онлайн. Поставьте закладку на этот адрес и Библия у Вас будет всегда \"под рукой\", в Интернете, во время Вашей работы (если Вы хотите ...",
+        "dateLastCrawled": "2020-01-08T06:28:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.43",
+        "name": "Amazon.com: bible",
+        "url": "https://www.amazon.com/bible/s?k=bible",
+        "about": [
+          {
+            "name": "Bible"
+          }
+        ],
+        "displayUrl": "https://www.amazon.com/bible/s?k=bible",
+        "snippet": "KJV Holy Bible, Giant Print Standard Bible, Black Faux Leather Bible w/Thumb Index and Ribbon Marker, Red Letter Edition, King James Version",
+        "dateLastCrawled": "2020-01-09T05:03:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.44",
+        "name": "The Bible Project Home | The Bible Project",
+        "url": "https://thebibleproject.com/",
+        "displayUrl": "https://thebibleproject.com",
+        "snippet": "The wisest king of Israel, King Solomon, is associated with three books of the Bible: Proverbs, Ecclesiastes, and the Song of Songs. Each book offers a unique perspective on how humans can rule with wisdom and the fear of the Lord.",
+        "dateLastCrawled": "2020-01-07T13:41:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.45",
+        "name": "Bible Black — Википедия",
+        "url": "https://ru.wikipedia.org/wiki/Bible_Black",
+        "about": [
+          {
+            "name": "Bible Black"
+          },
+          {
+            "name": "Bible Black"
+          },
+          {
+            "name": "Bible Black"
+          }
+        ],
+        "displayUrl": "https://ru.wikipedia.org/wiki/Bible_Black",
+        "snippet": "Сюжет Bible Black. В одной из школ подросток по имени Минасэ находит в подвале странную книгу, перевязанную цепью со звездой Давида.",
+        "dateLastCrawled": "2020-01-07T16:11:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.46",
+        "name": "Bible - usccb.org",
+        "url": "http://usccb.org/bible/",
+        "about": [
+          {
+            "name": "New American Bible"
+          },
+          {
+            "name": "Catholic Church"
+          },
+          {
+            "name": "New American Bible"
+          }
+        ],
+        "displayUrl": "usccb.org/bible",
+        "snippet": "The New American Bible, Revised Edition (NABRE) Released on March 9, 2011, the New American Bible, Revised Edition (NABRE) is the culmination of nearly 20 years of work by a group of nearly 100 scholars and theologians, including bishops, revisers and editors.",
+        "dateLastCrawled": "2020-01-09T09:25:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.47",
+        "name": "Matthew 1 | NET Bible",
+        "url": "http://net.bible.org/",
+        "about": [
+          {
+            "name": "New English Translation"
+          },
+          {
+            "name": "New English Translation"
+          }
+        ],
+        "displayUrl": "net.bible.org",
+        "snippet": "Welcome to Bible.org's revamped study tool, NET Bible! Would you like a short tour of the features? Sure, show me around! No thanks",
+        "dateLastCrawled": "2020-01-06T06:41:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.48",
+        "name": "BIBLE VERSES",
+        "url": "https://www.kingjamesbibleonline.org/Bible-Verses/",
+        "about": [
+          {
+            "name": "King James Version"
+          }
+        ],
+        "displayUrl": "https://www.kingjamesbibleonline.org/Bible-Verses",
+        "snippet": "Bible Verses About A Healthy Marriage. Bible Verses About A Husband. Bible Verses About A Man. Bible Verses About A Man Working. Bible Verses About A Mans Character",
+        "dateLastCrawled": "2019-11-12T18:59:00"
+      }
+    ]
+  },
+  "images": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=bible&qpvt=bible",
+    "webSearchUrl": "https://www.bing.com/images/search?q=bible&qpvt=bible",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "name": "Cambridge - evangelicalbible.com",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=57A8FABF06B5F350501F3810D75362F1102DF56E&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.yroO21PA1dUz5ky-pcNzIQHaFj&pid=Api",
+        "datePublished": "2019-10-31T21:56:00",
+        "contentUrl": "https://evangelicalbible.com/wp-content/uploads/2013/08/IMG_2420.jpg",
+        "hostPageUrl": "http://evangelicalbible.com/bibles/cambridge/",
+        "contentSize": "443616 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://evangelicalbible.com/bibles/cambridge/",
+        "width": 1600,
+        "height": 1200,
+        "thumbnail": {
+          "width": 474,
+          "height": 355
+        }
+      },
+      {
+        "name": "No more Bibles for Abbotsford public school kids | CBC News",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=39D7DD55E439C813B1A409B52391895E9B1979AC&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.B9og4lBcRCu4OO2IuVDRfAHaEK&pid=Api",
+        "datePublished": "2018-09-26T06:13:00",
+        "contentUrl": "https://i.cbc.ca/1.3546121.1461207762!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gideon-bible.jpg",
+        "hostPageUrl": "http://www.cbc.ca/news/canada/british-columbia/no-more-bibles-for-abbotsford-public-school-kids-1.3635822",
+        "contentSize": "27147 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.cbc.ca/news/canada/british-columbia/no-more-bibles-for-abbotsford-public-school-kids-1.3635822",
+        "width": 620,
+        "height": 349,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "name": "Myth: Catholics Prohbited Bible Reading Before Vatican II",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=AB76D9DE22BB78C37CDE09563D8CF5A59032AF52&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.lfhcqb_W__yh1dGhu8Y8FAHaGk&pid=Api",
+        "datePublished": "2010-02-11T14:32:00",
+        "contentUrl": "http://www.defendingthebride.com/bb/images/1957Covers.jpg",
+        "hostPageUrl": "http://www.defendingthebride.com/bb/vatican.html",
+        "contentSize": "305962 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.defendingthebride.com/bb/vatican.html",
+        "width": 1950,
+        "height": 1728,
+        "thumbnail": {
+          "width": 474,
+          "height": 420
+        }
+      },
+      {
+        "name": "Construction worker canned for balking on Bible study: lawsuit",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=00DA76254F13C97BC448556D508BD1BE356C6347&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.l7Rx-KcJPmRzb_nOsfQhEAHaE6&pid=Api",
+        "datePublished": "2018-08-30T19:15:00",
+        "contentUrl": "https://thenypost.files.wordpress.com/2018/08/fired-refused-to-go-to-bible-study.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+        "hostPageUrl": "https://nypost.com/2018/08/30/construction-worker-canned-for-balking-on-bible-study-lawsuit/",
+        "contentSize": "85234 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://nypost.com/2018/08/30/construction-worker-canned-for-balking-on-bible-study-lawsuit/",
+        "width": 618,
+        "height": 410,
+        "thumbnail": {
+          "width": 474,
+          "height": 314
+        }
+      },
+      {
+        "name": "Best Selling Bibles - evangelicalbible.com",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=0081636DEB2A1109F192941B18E3E2AB8E826587&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.-rVjw5tvZ3PxZSezuE3cxQHaFj&pid=Api",
+        "datePublished": "2018-01-15T20:47:00",
+        "contentUrl": "https://evangelicalbible.com/wp-content/uploads/2017/08/IMG_0012-1.jpg",
+        "hostPageUrl": "https://evangelicalbible.com/information/best-selling-bibles/",
+        "contentSize": "533828 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://evangelicalbible.com/information/best-selling-bibles/",
+        "width": 1600,
+        "height": 1200,
+        "thumbnail": {
+          "width": 474,
+          "height": 355
+        }
+      },
+      {
+        "name": "Homespun Devotions: Eleven Steps to a Stronger, Happier ...",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=19AA2F99B54D230C8B102451585A14DD47D6E89F&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.IYd7HkhE6H2-tRFF8U5svwHaD0&pid=Api",
+        "datePublished": "2014-04-21T12:00:00",
+        "contentUrl": "http://4.bp.blogspot.com/-GnvG9QJXW90/U1BxGj5r8PI/AAAAAAAAHE0/DzUhA8O3lto/s1600/open+Bible.JPG",
+        "hostPageUrl": "http://cherylsmithministries.blogspot.com/2014/04/eleven-secrets-to-happy-marriage.html",
+        "contentSize": "338898 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://cherylsmithministries.blogspot.com/2014/04/eleven-secrets-to-happy-marriage.html",
+        "width": 1600,
+        "height": 825,
+        "thumbnail": {
+          "width": 474,
+          "height": 244
+        }
+      },
+      {
+        "name": "Proverbs 24 (Audio Bible) - YouTube",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=DAEB41CF1EF4312B9CFA10FF843B69F40C77BB83&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.C3XeIa0A1lT9NJEICbft1QHaEK&pid=Api",
+        "datePublished": "2014-10-14T12:00:00",
+        "contentUrl": "https://i.ytimg.com/vi/bwPvg8cx2wU/maxresdefault.jpg",
+        "hostPageUrl": "http://www.youtube.com/watch?v=bwPvg8cx2wU",
+        "contentSize": "74197 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.youtube.com/watch?v=bwPvg8cx2wU",
+        "width": 1280,
+        "height": 720,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "name": "Family Bible - Ricky Skaggs & The Whites - YouTube",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=12F73FA58277CB7EFE23F28363E36242B63A403A&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.eJBswvOvcSKATdftBk7PcgHaEK&pid=Api",
+        "datePublished": "2019-10-08T10:27:00",
+        "contentUrl": "https://i.ytimg.com/vi/AY-pttIAoYI/maxresdefault.jpg",
+        "hostPageUrl": "https://www.youtube.com/watch?v=AY-pttIAoYI",
+        "contentSize": "112014 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=AY-pttIAoYI",
+        "width": 1280,
+        "height": 720,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "name": "The Best KJV Bibles - YouTube",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=5959DD67E7942547EAC67932ABED6ABFC5DBC2FD&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GevkBIWs6BlpsCp7BvPS6gHaEK&pid=Api",
+        "datePublished": "2011-02-03T12:00:00",
+        "contentUrl": "http://i.ytimg.com/vi/RMD88TuwATQ/maxresdefault.jpg",
+        "hostPageUrl": "http://www.youtube.com/watch?v=RMD88TuwATQ",
+        "contentSize": "27999 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://www.youtube.com/watch?v=RMD88TuwATQ",
+        "width": 1280,
+        "height": 720,
+        "thumbnail": {
+          "width": 474,
+          "height": 266
+        }
+      },
+      {
+        "name": "新共同訳聖書 - Wikipedia",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=E3FEEF822E71CB2F2031A04CC22A854557C2D401&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.q4pI3JMTDotyZv52hB4GtQHaJ4&pid=Api",
+        "datePublished": "2019-10-05T20:03:00",
+        "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/The_Bible%2C_The_New_Interconfessional_Translation.jpg/1200px-The_Bible%2C_The_New_Interconfessional_Translation.jpg",
+        "hostPageUrl": "https://ja.m.wikipedia.org/wiki/%E6%96%B0%E5%85%B1%E5%90%8C%E8%A8%B3%E8%81%96%E6%9B%B8",
+        "contentSize": "390627 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://ja.m.wikipedia.org/wiki/新共同訳聖書",
+        "width": 1200,
+        "height": 1600,
+        "thumbnail": {
+          "width": 474,
+          "height": 632
+        }
+      },
+      {
+        "name": "The King James Bible Has Been Translated in Emoji | Fortune",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=76387320C7EFF5B15B9E0B237FD8759644D47240&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ao6hJXyv4zc6SA6wVOM_VAEyDM&pid=Api",
+        "datePublished": "2019-05-26T00:14:00",
+        "contentUrl": "https://fortunedotcom.files.wordpress.com/2016/06/93016462.jpg",
+        "hostPageUrl": "http://fortune.com/2016/06/01/bible-emoji-translation/",
+        "contentSize": "470930 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://fortune.com/2016/06/01/bible-emoji-translation/",
+        "width": 2496,
+        "height": 1664,
+        "thumbnail": {
+          "width": 474,
+          "height": 316
+        }
+      },
+      {
+        "name": "Free Bible – Bible for muslims",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=5A9AD273C5356490A2918959249B909F9E6311BF&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.QVCruH8Ptr24wP2I4JE52QHaFS&pid=Api",
+        "datePublished": "2019-11-12T19:25:00",
+        "contentUrl": "http://bibleformuslims.com/wp-content/uploads/2017/12/bible1.jpg",
+        "hostPageUrl": "http://bibleformuslims.com/product/free-niv-bible",
+        "contentSize": "137767 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://bibleformuslims.com/product/free-niv-bible",
+        "width": 909,
+        "height": 649,
+        "thumbnail": {
+          "width": 474,
+          "height": 338
+        }
+      },
+      {
+        "name": "6 Ways to Spend More Time in Scripture | Facts & Trends",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=8B600D97B5BF33535FB1A38256F995D5B8E673CC&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.fvrrcKWGmDJ2trMXFLCoQgHaE7&pid=Api",
+        "datePublished": "2019-02-06T12:00:00",
+        "contentUrl": "https://factsandtrends.net/wp-content/uploads/2019/02/freely-james-coleman-122153.jpg",
+        "hostPageUrl": "https://factsandtrends.net/2019/02/06/6-ways-to-spend-more-time-in-scripture/",
+        "contentSize": "179982 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://factsandtrends.net/2019/02/06/6-ways-to-spend-more-time-in-scripture/",
+        "width": 650,
+        "height": 433,
+        "thumbnail": {
+          "width": 474,
+          "height": 315
+        }
+      },
+      {
+        "name": "Cambridge Standard Text KJV Bible Review - Bible Buying Guide",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=433CA7A970E5FA9B2BE703A87CBA2A69A84DD0A0&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.3fSK4d6-ET7Kk0UL4JTTygHaF7&pid=Api",
+        "datePublished": "2019-07-29T17:56:00",
+        "contentUrl": "http://biblebuyingguide.com/wp-content/uploads/2015/12/Cambridge-Standard-Text-KJV-Bible-2.jpg",
+        "hostPageUrl": "https://biblebuyingguide.com/cambridge-standard-text-kjv-bible-review/",
+        "contentSize": "443367 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://biblebuyingguide.com/cambridge-standard-text-kjv-bible-review/",
+        "width": 1358,
+        "height": 1088,
+        "thumbnail": {
+          "width": 474,
+          "height": 379
+        }
+      },
+      {
+        "name": "CROSS-eyed: The Blank Bible",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=19F0F92F4E66EB90EC7139530E07FC6151C3FA8A&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._f6htpPgv1RX8oyrgiCHdwHaFj&pid=Api",
+        "datePublished": "2006-12-01T12:00:00",
+        "contentUrl": "http://photos1.blogger.com/x/blogger/3550/1694/1600/372912/DSC00958.jpg",
+        "hostPageUrl": "http://justinchilders.blogspot.com/2006/12/blank-bible.html",
+        "contentSize": "105467 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://justinchilders.blogspot.com/2006/12/blank-bible.html",
+        "width": 1024,
+        "height": 768,
+        "thumbnail": {
+          "width": 474,
+          "height": 355
+        }
+      },
+      {
+        "name": "The Bible for Grown-Ups review – who wrote the good book ...",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=49EC3ADDE8735F5AADDD397C377B7B82D67F715F&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.rSDX9aGAZjILnsBO9-GBwAAAAA&pid=Api",
+        "datePublished": "2017-09-28T12:00:00",
+        "contentUrl": "https://i.guim.co.uk/img/media/39f1ff9552a474fca41ba4f1bb6cb5370c0e6060/0_110_5616_3370/master/5616.jpg?width=300&quality=85&auto=format&fit=max&s=fe3dd2410d1cdf4b17d27cb86052d447",
+        "hostPageUrl": "https://www.theguardian.com/books/2017/sep/28/bible-for-grown-ups-simon-loveday-review",
+        "contentSize": "6484 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://www.theguardian.com/books/2017/sep/28/bible-for-grown-ups-simon-loveday-review",
+        "width": 300,
+        "height": 180,
+        "thumbnail": {
+          "width": 300,
+          "height": 180
+        }
+      },
+      {
+        "name": "Mum in the making: {DIAL} Us on a rather good day",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=C4F10C4485F91C71650A6BE569C942D0723E7474&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.EFGxzMbPvc5rf_SP3MwQsgHaEs&pid=Api",
+        "datePublished": "2012-10-10T12:00:00",
+        "contentUrl": "http://3.bp.blogspot.com/-2iE1E-uxy3o/UHTNz7cuV1I/AAAAAAAAGxA/b_ZQjMh_Tqo/s1600/Breakfast+and+bible.jpg",
+        "hostPageUrl": "http://makingmum.blogspot.com/2012/10/dial-us-on-rather-good-day.html",
+        "contentSize": "172912 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "http://makingmum.blogspot.com/2012/10/dial-us-on-rather-good-day.html",
+        "width": 1280,
+        "height": 812,
+        "thumbnail": {
+          "width": 474,
+          "height": 300
+        }
+      },
+      {
+        "name": "“Please Send Us Bibles!” - Christian Aid Ministries",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=015560AECFC7DA5C30ED8DD0D9F61BD07C6ACE58&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.rT3AUtplAwtVs3sXsKlKRQHaFj&pid=Api",
+        "datePublished": "2001-01-01T00:00:00",
+        "contentUrl": "https://cdn.christianaidministries.org/wp-content/uploads/2017/12/Bible-SPost.jpg",
+        "hostPageUrl": "https://christianaidministries.org/please-send-us-bibles/",
+        "contentSize": "165955 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://christianaidministries.org/please-send-us-bibles/",
+        "width": 800,
+        "height": 600,
+        "thumbnail": {
+          "width": 474,
+          "height": 355
+        }
+      },
+      {
+        "name": "Evangelical Missionary Church of Besançon - Wikipedia",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=966C48D0F63042B9A239DE1E61DAD42A41AE845F&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.aFiU0y7iNUA_c_YHVgUEBwHaFV&pid=Api",
+        "datePublished": "2017-02-12T03:27:00",
+        "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Holy_Bible.JPG",
+        "hostPageUrl": "https://en.wikipedia.org/wiki/Evangelical_Missionary_Church_of_Besan%C3%A7on",
+        "contentSize": "580135 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://en.wikipedia.org/wiki/Evangelical_Missionary_Church_of_Besan%C3%A7on",
+        "width": 1600,
+        "height": 1153,
+        "thumbnail": {
+          "width": 474,
+          "height": 341
+        }
+      },
+      {
+        "name": "What Does the Bible Say About the ISIS Crisis? | Christian ...",
+        "webSearchUrl": "https://www.bing.com/images/search?q=bible&id=E0916521FB1C0830D7348C6B27344B79EB099074&FORM=IQFRBA",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.9vfGKPMIzh_HEOVeOhBgrgAAAA&pid=Api",
+        "datePublished": "2019-11-08T19:23:00",
+        "contentUrl": "https://resources.christianquestions.com/wp-content/uploads/2016/03/28093923/BibleGlowingblur-small.jpg",
+        "hostPageUrl": "https://christianquestions.com/current-events/909-is-isis-in-the-bible/",
+        "contentSize": "14650 B",
+        "encodingFormat": "jpeg",
+        "hostPageDisplayUrl": "https://christianquestions.com/current-events/909-is-isis-in-the-bible/",
+        "width": 420,
+        "height": 279,
+        "thumbnail": {
+          "width": 420,
+          "height": 279
+        }
+      }
+    ],
+    "nextOffsetAddCount": 0
+  },
+  "relatedSearches": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches",
+    "value": [
+      {
+        "text": "bible online",
+        "displayText": "bible online",
+        "webSearchUrl": "https://www.bing.com/search?q=bible+online"
+      },
+      {
+        "text": "bible study",
+        "displayText": "bible study",
+        "webSearchUrl": "https://www.bing.com/search?q=bible+study"
+      },
+      {
+        "text": "bible gateway",
+        "displayText": "bible gateway",
+        "webSearchUrl": "https://www.bing.com/search?q=bible+gateway"
+      },
+      {
+        "text": "bible project",
+        "displayText": "bible project",
+        "webSearchUrl": "https://www.bing.com/search?q=bible+project"
+      },
+      {
+        "text": "the bible",
+        "displayText": "the bible",
+        "webSearchUrl": "https://www.bing.com/search?q=the+bible"
+      },
+      {
+        "text": "my bible",
+        "displayText": "my bible",
+        "webSearchUrl": "https://www.bing.com/search?q=my+bible"
+      },
+      {
+        "text": "holy bible",
+        "displayText": "holy bible",
+        "webSearchUrl": "https://www.bing.com/search?q=holy+bible"
+      },
+      {
+        "text": "youversion",
+        "displayText": "youversion",
+        "webSearchUrl": "https://www.bing.com/search?q=youversion"
+      }
+    ]
+  },
+  "videos": {
+    "id": "https://api.cognitive.microsoft.com/api/v7/#Videos",
+    "readLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=bible",
+    "webSearchUrl": "https://www.bing.com/videos/search?q=bible",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "name": "The Story of Moses - Beginners Bible",
+        "description": "Subscribe our channel: http://bit.ly/1MeurZH Beginners Bible - Encounter a time in ancient Egypt when Baby Moses was plucked from the reeds of the Nile River and grows up to become the hero of the enslaved Israelites. -~-~~-~~~-~~-~- Please watch: \"Joshua and the Battle of Jericho - Part 1 - The Beginners Bible\" https://www.youtube.com/watch?v ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=D1F2AC7960B12F9FDFB8D1F2AC7960B12F9FDFB8",
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.GQbPywzQA_HNlcpnDjKKQQEsDh&pid=Api",
+        "datePublished": "2014-10-14T09:13:16",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=65KgsHvFKd4",
+        "hostPageUrl": "https://www.youtube.com/watch?v=65KgsHvFKd4",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=65KgsHvFKd4",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT26M38S",
+        "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.uN-fL7Fgeazy0Q_1575343354&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/65KgsHvFKd4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 2011055,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "NON-STOP - FULL EPISODES - +4 Hours - The Beginners Bible",
+        "description": "Subscribe our channel: http://bit.ly/1LpvTeF NON-STOP - FULL EPISODES - +4 Hours - The Beginners Bible More famous Bible-Stories: http://bit.ly/2ykx2Bz The Beginner's Bible - Created to help you share the most important lessons from the greatest stories ever told, The Beginner’s Bible Series brings the true wonder and joy of the Bible to life ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=88CC4A083585962E1CD288CC4A083585962E1CD2",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.3Y1a9_vCPg6pZYpau5OKrAHgFo&pid=Api",
+        "datePublished": "2018-09-21T08:22:23",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=ZtokEoAra-M",
+        "hostPageUrl": "https://www.youtube.com/watch?v=ZtokEoAra-M",
+        "encodingFormat": "",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=ZtokEoAra-M",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT3H45M35S",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/ZtokEoAra-M?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 347640,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "NON STOP - 3 FULL EPISODES - The Beginners Bible",
+        "description": "Subscribe for more videos: http://bit.ly/1LpvTeF Watch more episodes: https://bit.ly/2H5cd0B 👉NON STOP - 3 FULL EPISODES - The Beginners Bible The Beginner's Bible - Created to help you share the most important lessons from the greatest stories ever told, The Beginner’s Bible Series brings the true wonder and joy of the Bible to life ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=A0277587659BE5E3F41AA0277587659BE5E3F41A",
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.7iQ5g7N6C73qdCkGh52BeAEsDh&pid=Api",
+        "datePublished": "2019-10-15T06:00:00",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=JdtRxSDCa-Q",
+        "hostPageUrl": "https://www.youtube.com/watch?v=JdtRxSDCa-Q",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=JdtRxSDCa-Q",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT1H16M39S",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/JdtRxSDCa-Q?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 7630,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "The Nativity - Part 1 - The Beginners Bible",
+        "description": "Subscribe our channel: http://bit.ly/1LpvTeF The Nativity - Part 1 - The Beginners Bible More famous Bible-Stories: http://bit.ly/2ykx2Bz The Beginners Bible - Relive the miraculous events surrounding the very first Christmas as Mary receives a heavenly visitor and learns that she, of all women, has been chosen to the mother of God’s son ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=FA53F693C869BD30BF07FA53F693C869BD30BF07",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.m2oOorkyHMKVeLizPgrZ1wEsDh&pid=Api",
+        "datePublished": "2018-07-09T13:15:14",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=wmio42mjcIs",
+        "hostPageUrl": "https://www.youtube.com/watch?v=wmio42mjcIs",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=wmio42mjcIs",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT5M19S",
+        "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.B78wvWnIk_ZT-g_1572657780&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/wmio42mjcIs?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 174763,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "4 FULL EPISODES - NON-STOP - The Beginners Bible",
+        "description": "Subscribe for more videos: http://bit.ly/1LpvTeF Watch more episodes: https://bit.ly/2H5cd0B 4 FULL EPISODES - NON-STOP - The Beginners Bible",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=21FF372ACB4F4F2C81E321FF372ACB4F4F2C81E3",
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.HAWxlezppAUHxr_e-hJc7AEsDh&pid=Api",
+        "datePublished": "2019-08-27T11:12:46",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=WN-4FXGZrrM",
+        "hostPageUrl": "https://www.youtube.com/watch?v=WN-4FXGZrrM",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=WN-4FXGZrrM",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT1H39M36S",
+        "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.44EsT0_LKjf_IQ_1573712503&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/WN-4FXGZrrM?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 14213,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "+2 HOURS NON STOP - 5 Full Episodes - Jesus Life - The Beginners Bible",
+        "description": "Subscribe for more videos: http://bit.ly/1LpvTeF Watch more episodes: https://bit.ly/2H5cd0B +2 HOURS NON STOP - 5 Full Episodes - Jesus Life - The Beginners Bible",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=DCD2370A473E44C3C995DCD2370A473E44C3C995",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVT.VF_lcnDRD5HCjfS3A_1578617132&pid=Api",
+        "datePublished": "2019-05-21T13:47:56",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=_t_OCNgkjxQ",
+        "hostPageUrl": "https://www.youtube.com/watch?v=_t_OCNgkjxQ",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=_t_OCNgkjxQ",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT2H6M50S",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/_t_OCNgkjxQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 23516,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "Bible Stories for Kids! The Story of Hosea (Episode 21)",
+        "description": "Enjoy this wonderful animated Bible story for all children. Father John teaches Lucy, Matthew and George the story of Hosea. Don't forget to subscribe for more great Bible Stories for Kids! http://bit.ly/BibleStoriesForKidsSubscribe Hosea was the last prophet sent to Israel. He was a man who experienced the depth of God’s love, and the ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=72AB76FD44343FBDFEF072AB76FD44343FBDFEF0",
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.XgnltZKcknmjUOOJXNM8AAHfFn&pid=Api",
+        "datePublished": "2016-01-29T16:26:20",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=Pe-_Zo-MFIA",
+        "hostPageUrl": "https://www.youtube.com/watch?v=Pe-_Zo-MFIA",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Pe-_Zo-MFIA",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT23M53S",
+        "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.8P69PzRE_Xarcg_1574460459&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Pe-_Zo-MFIA?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 307120,
+        "thumbnail": {
+          "width": 160,
+          "height": 119
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "Mysteries of the Bible - Paul the Apostle",
+        "description": "Explore the life of the man who transformed from the religion's bitterest foe to its most ardent advocate. Paul the Apostle, original name Saul of Tarsus, was an apostle (though not one of the Twelve Apostles) who taught the gospel of Christ to the first-century world. He is generally considered one of the most important figures of the ...",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=36CAC474DF8FD101669236CAC474DF8FD1016692",
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.m6PkbGHpu1UYGUbyTp7cnQHgFo&pid=Api",
+        "datePublished": "2014-09-18T05:30:21",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=-p2FVuefmcg",
+        "hostPageUrl": "https://www.youtube.com/watch?v=-p2FVuefmcg",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=-p2FVuefmcg",
+        "width": 480,
+        "height": 360,
+        "duration": "PT45M22S",
+        "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.kmYB0Y_fdMTKNg_1572846958&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/-p2FVuefmcg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 402352,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "Mysteries of the Bible - Biblical Angels",
+        "description": "From Michael and Gabriel to the fall of Satan, explore the amazing stories of some of the Bible's most fascinating figures. Watch more TV shows for free at http://tvtuner.co",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=2F8DFA24D477829809D32F8DFA24D477829809D3",
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.h7bb0gTa411QevAriwYEKAEsDh&pid=Api",
+        "datePublished": "2014-09-16T03:29:49",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=qptNVOWxdRA",
+        "hostPageUrl": "https://www.youtube.com/watch?v=qptNVOWxdRA",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=qptNVOWxdRA",
+        "width": 480,
+        "height": 360,
+        "duration": "PT45M16S",
+        "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.0wmYgnfUJPqNLw_1578120402&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/qptNVOWxdRA?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 284812,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "name": "Episode 4-6 - Moses - David and Goliath - Jonah and the Whale - Beginners Bible",
+        "description": "Subscribe for more videos: http://bit.ly/1LpvTeF Watch more episodes: https://bit.ly/2H5cd0B 5 FULL EPISODES - Moses & David and Goliath and more - The Beginners Bible",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=bible&view=detail&mid=C42E5CA6DA2394DBB2E9C42E5CA6DA2394DBB2E9",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.4NYW1USqCXyVlKz-lhPMZQEsDh&pid=Api",
+        "datePublished": "2019-07-20T05:00:02",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "contentUrl": "https://www.youtube.com/watch?v=5eXRpzqGISU",
+        "hostPageUrl": "https://www.youtube.com/watch?v=5eXRpzqGISU",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=5eXRpzqGISU",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT1H16M",
+        "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.6bLblCPaplwuxA_1575319741&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/5eXRpzqGISU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 21610,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      }
+    ],
+    "nextOffsetAddCount": 0,
+    "scenario": "List"
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "Images",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "Videos",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#Videos"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.20"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 21,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.21"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 22,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.22"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 23,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.23"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 24,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.24"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 25,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.25"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 26,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.26"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 27,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.27"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 28,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.28"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 29,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.29"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 30,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.30"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 31,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.31"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 32,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.32"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 33,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.33"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 34,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.34"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 35,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.35"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 36,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.36"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 37,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.37"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 38,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.38"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 39,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.39"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 40,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.40"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 41,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.41"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 42,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.42"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 43,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.43"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 44,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.44"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 45,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.45"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 46,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.46"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 47,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.47"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 48,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.48"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "RelatedSearches",
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches"
+          }
+        }
+      ]
+    }
+  }
+}

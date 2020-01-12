@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -9,6 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\bing.html" />
+    <None Remove="Resources\bing.json" />
     <None Remove="Resources\google.json" />
     <None Remove="Resources\yandex.xml" />
   </ItemGroup>
@@ -24,6 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\bing.json" />
     <EmbeddedResource Include="Resources\google.json" />
     <EmbeddedResource Include="Resources\yandex.xml" />
   </ItemGroup>

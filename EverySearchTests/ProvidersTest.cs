@@ -1,6 +1,7 @@
 using EverySearch.Lib;
 using EverySearch.Models;
 using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json.Linq;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -36,7 +37,7 @@ namespace EverySearchTests
             string key = System.Web.HttpUtility.UrlPathEncode(configuration["Google:key"]);
             string cx = System.Web.HttpUtility.UrlPathEncode(configuration["Google:cx"]);
             string expected = $"{host}?q={query}&cx={cx}&key={key}&num={num}";
-            string url = search.MakeRequestUrl(query, num);
+            string url = search.MakeRequest(query, num).Address.AbsoluteUri;
             Console.WriteLine($"got:\n{url}");
             Console.WriteLine($"expected:\n{expected}");
             Assert.IsTrue(url == expected);
@@ -62,7 +63,7 @@ namespace EverySearchTests
             string key = System.Web.HttpUtility.UrlPathEncode(configuration["Yandex:key"]);
             string user = System.Web.HttpUtility.UrlPathEncode(configuration["Yandex:user"]);
             string expected=$"{host}?query={query}&key={key}&user={user}&groupby=attr%3D%22%22.mode%3Dflat.groups-on-page%3D{num}.docs-in-group%3D1";
-            string url = search.MakeRequestUrl(query, num);
+            string url = search.MakeRequest(query, num).Address.AbsoluteUri;
             Console.WriteLine($"got:\n{url}");
             Console.WriteLine($"expected:\n{expected}");
             Assert.IsTrue(url == expected);
@@ -75,6 +76,30 @@ namespace EverySearchTests
             string filename = "yandex.xml";
             string xml = ReadResource(resourcesDir + filename);
             var response = search.ParseResult(xml);
+            Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", System.StringComparison.InvariantCultureIgnoreCase)));
+        }
+
+        [Test]
+        public void TestBingUrl()
+        {
+            SearchProvider search = new BingProvider(configuration);
+            string query = "Bible";
+            int count = 7;
+            string host = "https://api.cognitive.microsoft.com/bing/v5.0/search";
+            string expected = $"{host}?q={query}&count={count}";
+            string url = search.MakeRequest(query, count).Address.AbsoluteUri;
+            Console.WriteLine($"got:\n{url}");
+            Console.WriteLine($"expected:\n{expected}");
+            Assert.IsTrue(url == expected);
+        }
+
+        [Test]
+        public void TestBingParse()
+        {
+            SearchProvider search = new BingProvider(configuration);
+            string filename = "bing.json";
+            string json = ReadResource(resourcesDir + filename);
+            var response = search.ParseResult(json);
             Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", System.StringComparison.InvariantCultureIgnoreCase)));
         }
 
