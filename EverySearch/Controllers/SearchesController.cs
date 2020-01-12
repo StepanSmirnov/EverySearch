@@ -20,9 +20,9 @@ namespace EverySearch.Controllers
             this.searchManager = searchManager;
         }
 
-        public IActionResult New()
+        public IActionResult New(string query = "")
         {
-            return View();
+            return View("New", query);
         }
 
         [HttpPost]
@@ -45,6 +45,8 @@ namespace EverySearch.Controllers
         public async Task<IActionResult> ShowAsync(int Id)
         {
             Search search = await context.Searches.Include(s => s.SearchResults).SingleAsync(s => s.Id == Id);
+            if (search.SearchResults.Count == 0)
+                return View("Error", Url.Action("New", new { query = search.Query}));
             return View(search);
         }
     }

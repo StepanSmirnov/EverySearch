@@ -6,7 +6,7 @@ body {
 body {
     background-color: #14183c;
     color: rgb(255, 182, 73);
-    font-family: 'Arial Rounded MT';
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
 }
 
 .hcenter {
@@ -38,7 +38,8 @@ margin: 5px;
 }
 
 .searchForm input[type=text] {
-    width: 300px;
+    width: 60%;
+    max-width: 500px;
 }
 
 .searchResult {
@@ -60,4 +61,9 @@ a {
     color: #0066ff;
 }
 
+#errorSearchView img {
+    width: 30%;
+    max-height: 512px;
+    max-width: 512px;
+}
 

@@ -1,7 +1,8 @@
-﻿<div id="newSearchView" class="hcenter">
+﻿@model string
+<div id="newSearchView" class="hcenter">
     <h1>Binglex Search</h1>
     <form class="searchForm" asp-controller="Searches" asp-action="Create" method="post">
-        <input type="text" name="query" placeholder="search query"/>
+        <input type="text" name="query" placeholder="search query" value="@Model"/>
         <input type="submit" value=" "/>
     </form>
 </div>
