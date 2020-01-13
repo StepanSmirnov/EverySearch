@@ -1,11 +1,17 @@
-﻿@using EverySearch.Models
-@model IEnumerable<Search>
+﻿@using EverySearch.ViewModels
+@model SearchSavedViewModel
 
-<div id="indexSearchView" class="hcenter">
-    <h1>Binglex Search</h1>
-    <form class="searchForm" asp-controller="Searches" asp-action="Create" method="post">
-        @*<input type="text" name="query" placeholder="search query" value required />*@
-        <input type="submit" value=" " />
-    </form>
-
-</div>
+    <div id="indexSearchView" class="hcenter">
+        <h1>Binglex Search</h1>
+        <form class="searchForm" asp-controller="Searches" asp-action="Index" method="post">
+            <input type="text" asp-for="Filter" placeholder="search query" required />
+            <input type="submit" value=" " />
+        </form>
+        @foreach (var search in Model.Searches)
+        {
+            @if(search.SearchResults != null)
+            {
+                @await Html.PartialAsync("SearchResults", search.SearchResults);
+            }
+        }
+    </div>

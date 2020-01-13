@@ -4,12 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EverySearch
+namespace EverySearch.ViewModels
 {
-    public class SearchViewModel
+    public class SearchSavedViewModel
     {
-        public bool HasError { get; set; }
-        public IEnumerable<SearchResult> searchResults { get; set; }
-        public string ErrorMessage { get; set; }
+        public string Filter { get; set; }
+        public IEnumerable<Search> Searches { get; set; }
     }
 }

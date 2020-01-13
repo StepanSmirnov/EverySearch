@@ -1,0 +1,16 @@
+﻿@using EverySearch.Models
+@model ICollection<SearchResult>
+<div class="hcenter">
+    @foreach (var item in Model)
+    {
+        <div class="searchResult">
+            <h2>
+                @Html.Raw(@item.Title)
+            </h2>
+            <a href="@item.Url">@item.DisplayUrl</a>
+            <div>
+                @Html.Raw(item.Snippet)
+            </div>
+        </div>
+    }
+</div>

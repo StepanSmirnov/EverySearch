@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using EverySearch.Lib;
 using EverySearch.Models;
+using EverySearch.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using static Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions;
 
@@ -48,6 +49,22 @@ namespace EverySearch.Controllers
             if (search.SearchResults.Count == 0)
                 return View("Error", Url.Action("New", new { query = search.Query}));
             return View(search);
+        }
+
+        public async Task<IActionResult> IndexAsync(SearchSavedViewModel viewModel)
+        {
+            if (viewModel.Filter == null)
+            {
+                viewModel = new SearchSavedViewModel();
+                viewModel.Searches = await context.Searches.Include(s => s.SearchResults).ToListAsync();
+            }
+            else
+            {
+                List<string> words = new List<string>(viewModel.Filter.Split(" "));
+                viewModel.Searches = await context.Searches.Include(s => s.SearchResults).
+                    Where(s => s.Query.Contains(viewModel.Filter)).ToListAsync();
+            }
+            return View(viewModel);
         }
     }
 }
