@@ -1,6 +1,7 @@
 using EverySearch.Lib;
 using EverySearch.Models;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Primitives;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
 using System;
@@ -16,15 +17,18 @@ namespace EverySearchTests
 {
     public class ProvidersTest
     {
-        private IConfiguration configuration;
         private readonly string resourcesDir = "EverySearchTests.Resources.";
+        private ConfigurationStub configuration;
 
         [SetUp]
         public void Setup()
         {
-            var builder = new ConfigurationBuilder()
-                .AddUserSecrets<ProvidersTest>();
-            configuration = builder.Build();
+            configuration = new ConfigurationStub();
+            configuration["Google:key"] = "keykeykeykey";
+            configuration["Google:cx"] = "cxcxcxcxcxcx";
+            configuration["Yandex:key"] = "keykeykeykey";
+            configuration["Yandex:user"] = "useruseruser";
+            configuration["Bing:key"] = "keykeykeykey";
         }
 
         [Test]
@@ -87,10 +91,11 @@ namespace EverySearchTests
             int count = 7;
             string host = "https://api.cognitive.microsoft.com/bing/v5.0/search";
             string expected = $"{host}?q={query}&count={count}";
-            string url = search.MakeRequest(query, count).Address.AbsoluteUri;
+            var request = search.MakeRequest(query, count);
+            string url = request.Address.AbsoluteUri;
             Console.WriteLine($"got:\n{url}");
             Console.WriteLine($"expected:\n{expected}");
-            Assert.IsTrue(url == expected);
+            Assert.IsTrue(url == expected && request.Headers["Ocp-Apim-Subscription-Key"] == configuration["Bing:key"]);
         }
 
         [Test]
