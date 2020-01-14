@@ -10,6 +10,7 @@ namespace EverySearch.Models
     {
         public EverySearchContext(DbContextOptions options) : base(options)
         {
+            Database.EnsureCreated();
         }
 
         public DbSet<Search> Searches { get; set; }
