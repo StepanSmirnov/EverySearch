@@ -52,7 +52,7 @@ margin: 5px;
     box-shadow: 2px 2px 6px black;
 }
 
-#showSearchView > div{
+#searchResultsView{
     width:50%;
     max-width:700px;
 }
