@@ -48,5 +48,22 @@ namespace EverySearchTests
             var response = search.ParseResult(json);
             Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", StringComparison.InvariantCultureIgnoreCase)));
         }
+
+        [Test]
+        public void ParseResult_EmptyJson_Throws()
+        {
+            SearchProvider search = new BingProvider(configuration);
+            string json = string.Empty;
+            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+
+        }
+
+        [Test]
+        public void ParseResult_ErrorJson_Throws()
+        {
+            SearchProvider search = new BingProvider(configuration);
+            string json = "{\"error\":{\"code\":\"401\",\"message\":\"message\"}}";
+            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+        }
     }
 }
