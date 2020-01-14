@@ -28,13 +28,13 @@ namespace EverySearch.Lib
             {
                 html = reader.ReadToEnd();
             }
-            return ParseResult(html);
+            return ParseResponse(html);
         }
 
         protected abstract void InitializeCredentials(IConfiguration configuration);
 
         public abstract HttpWebRequest MakeRequest(string query, int? count);
 
-        public abstract IEnumerable<SearchResult> ParseResult(string result);
+        public abstract IEnumerable<SearchResult> ParseResponse(string result);
     }
 }

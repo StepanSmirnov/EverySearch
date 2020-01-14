@@ -45,7 +45,7 @@ namespace EverySearchTests
             Assembly thisAssembly = Assembly.GetExecutingAssembly();
             var reader = new StreamReader(thisAssembly.GetManifestResourceStream(resourcesDir + filename));
             string xml = reader.ReadToEnd();
-            var response = search.ParseResult(xml);
+            var response = search.ParseResponse(xml);
             Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", System.StringComparison.InvariantCultureIgnoreCase)));
         }
 
@@ -54,7 +54,7 @@ namespace EverySearchTests
         {
             SearchProvider search = new YandexProvider(configuration);
             string json = string.Empty;
-            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+            Assert.Throws<ArgumentException>(() => search.ParseResponse(json));
 
         }
 
@@ -63,7 +63,7 @@ namespace EverySearchTests
         {
             SearchProvider search = new YandexProvider(configuration);
             string json = "<?xml version=\"1.0\" encoding=\"utf-8\"?><yandexsearch version=\"1.0\"><response date=\"20200114T135529\"><error code=\"33\">message</error><reqid>1579</reqid></response></yandexsearch>";
-            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+            Assert.Throws<ArgumentException>(() => search.ParseResponse(json));
         }
     }
 }

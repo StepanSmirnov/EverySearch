@@ -37,7 +37,7 @@ namespace EverySearch.Lib
             return request;
         }
 
-        public override IEnumerable<SearchResult> ParseResult(string result)
+        public override IEnumerable<SearchResult> ParseResponse(string result)
         {
             XmlDocument doc = new XmlDocument();
             try

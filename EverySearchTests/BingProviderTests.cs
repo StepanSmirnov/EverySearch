@@ -45,7 +45,7 @@ namespace EverySearchTests
             Assembly thisAssembly = Assembly.GetExecutingAssembly();
             var reader = new StreamReader(thisAssembly.GetManifestResourceStream(resourcesDir + filename));
             string json = reader.ReadToEnd();
-            var response = search.ParseResult(json);
+            var response = search.ParseResponse(json);
             Assert.IsTrue(response.Any(r => r.Snippet.Contains("Bible", StringComparison.InvariantCultureIgnoreCase)));
         }
 
@@ -54,7 +54,7 @@ namespace EverySearchTests
         {
             SearchProvider search = new BingProvider(configuration);
             string json = string.Empty;
-            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+            Assert.Throws<ArgumentException>(() => search.ParseResponse(json));
 
         }
 
@@ -63,7 +63,7 @@ namespace EverySearchTests
         {
             SearchProvider search = new BingProvider(configuration);
             string json = "{\"error\":{\"code\":\"401\",\"message\":\"message\"}}";
-            Assert.Throws<ArgumentException>(() => search.ParseResult(json));
+            Assert.Throws<ArgumentException>(() => search.ParseResponse(json));
         }
     }
 }
