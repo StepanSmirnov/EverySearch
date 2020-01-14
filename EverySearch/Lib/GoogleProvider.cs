@@ -7,7 +7,9 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using static System.Web.HttpUtility;
 using System.Xml;
+using Newtonsoft.Json;
 
 namespace EverySearch.Lib
 {
@@ -25,7 +27,7 @@ namespace EverySearch.Lib
         public override HttpWebRequest MakeRequest(string query, int? count)
         {
             int num = count != null ? Math.Clamp(count.Value, 1, maxResults) : maxResults;
-            string encodedQuery = System.Web.HttpUtility.UrlPathEncode(query);
+            string encodedQuery = UrlPathEncode(query);
             string url = $"{host}?q={encodedQuery}&cx={cx}&key={key}&num={num}";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             return request;
@@ -33,7 +35,21 @@ namespace EverySearch.Lib
 
         public override IEnumerable<SearchResult> ParseResult(string result)
         {
-            var root = JObject.Parse(result);
+            JObject root;
+            try
+            {
+                root = JObject.Parse(result);
+            }
+            catch (JsonReaderException e)
+            {
+                throw new ArgumentException(e.Message);
+            }
+
+            if (root.ContainsKey("error"))
+            {
+                throw new ArgumentException(root["error"]["message"].ToString());
+            }
+
             var items = root["items"].ToArray();
             List<SearchResult> searchResults = new List<SearchResult>();
             foreach (var item in items)
@@ -50,8 +66,8 @@ namespace EverySearch.Lib
 
         protected override void InitializeCredentials(IConfiguration configuration)
         {
-            key = System.Web.HttpUtility.UrlPathEncode(configuration["Google:key"]);
-            cx = System.Web.HttpUtility.UrlPathEncode(configuration["Google:cx"]);
+            key = UrlPathEncode(configuration["Google:key"]);
+            cx = UrlPathEncode(configuration["Google:cx"]);
         }
     }
 }
