@@ -27,8 +27,8 @@ namespace EverySearch
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.BuildServiceProvider()
-            string connection = configuration.GetConnectionString("localdb");
+            //string connection = configuration.GetConnectionString("localdb");
+            string connection = configuration.GetConnectionString("docker");
             services.AddDbContext<EverySearchContext>(options =>
             {
                 options.UseSqlServer(connection);
