@@ -26,38 +26,23 @@ namespace EverySearch.Lib
             };
             this.logger = logger;
         }
-
         public async Task<SearchResultSet> ExecuteQueryAsync(string query, int? count = null)
         {
-            List<Task<SearchResultSet>> tasks = new List<Task<SearchResultSet>>();
-            foreach (var item in searchProviders)
+            List<Func<SearchResultSet>> funcs = new List<Func<SearchResultSet>>();
+            foreach (var provider in searchProviders)
             {
-                tasks.Add(Task<SearchResultSet>.Run(() => ConcurrentExec(item, query, count)));
+                funcs.Add(() => provider.ExecuteQuery(query, count));
             }
-            while (tasks.Count() > 0)
+            var result = await Utils.WaitAnySuccessful(funcs);
+            if (result.Value == null)
             {
-                var task = await Task.WhenAny(tasks);
-                if (task.Result != null)
+                foreach (var exception in result.Exceptions)
                 {
-                    return task.Result;
+                    logger.LogError(exception, "Exception while executing query '{query}'. Stacktrace: {StackTrace}", query, exception.StackTrace);
                 }
-                tasks.Remove(task);
+                return new List<SearchResult>();
             }
-            return new List<SearchResult>();
-        }
-
-        private SearchResultSet ConcurrentExec(SearchProvider provider, string query, int? count)
-        {
-            try
-            {
-                var res = provider.ExecuteQuery(query, count);
-                return res;
-            }
-            catch (Exception e)
-            {
-                logger.LogError(e, "Exception while executing query '{query}' by provider {provider}", query, provider.GetType().Name);
-                return null;
-            }
+            return result.Value;
         }
     }
 }
