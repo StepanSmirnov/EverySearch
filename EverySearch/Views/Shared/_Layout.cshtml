@@ -5,6 +5,10 @@
     <link href="~/css/style.css" rel="stylesheet" />
 </head>
 <body>
+    <ul class="navbar">
+        <li id="indexNavItem"><a asp-action="Index" asp-controller="Searches">Search history</a></li>
+        <li id="newNavItem"><a asp-action="New" asp-controller="Searches">Web search</a></li>
+    </ul>
     <div>
         @RenderBody()
     </div>
