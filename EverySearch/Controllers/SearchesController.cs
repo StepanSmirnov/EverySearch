@@ -6,6 +6,7 @@ using EverySearch.Lib;
 using EverySearch.Models;
 using EverySearch.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using static Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions;
 
 namespace EverySearch.Controllers
@@ -56,15 +57,20 @@ namespace EverySearch.Controllers
             if (viewModel.Filter == null)
             {
                 viewModel = new SearchSavedViewModel();
-                viewModel.Searches = await context.Searches.Include(s => s.SearchResults).ToListAsync();
+                viewModel.SearchResults = await context.SearchResults.ToListAsync();
             }
             else
             {
                 List<string> words = new List<string>(viewModel.Filter.Split(" "));
-                viewModel.Searches = await context.Searches.Include(s => s.SearchResults).
-                    Where(s => s.Query.Contains(viewModel.Filter)).ToListAsync();
+                IQueryable<SearchResult> searches = Queryable.AsQueryable(new List<SearchResult>());
+                foreach (var word in words)
+                {
+                    searches = context.SearchResults.Where(s => s.Search.Query.Contains(word) || s.Title.Contains(word));
+                }
+                viewModel.SearchResults = await searches.ToListAsync();
             }
             return View(viewModel);
         }
+
     }
 }

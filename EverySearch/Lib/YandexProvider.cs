@@ -29,7 +29,6 @@ namespace EverySearch.Lib
 
         public override HttpWebRequest MakeRequest(string query, int? count)
         {
-            string html = string.Empty;
             int num = count != null ? Math.Clamp(count.Value, 1, maxResults) : maxResults;
             string encodedQuery = UrlEncode(query);
             string url = $"{host}?query={encodedQuery}&key={key}&user={user}&groupby=attr%3D%22%22.mode%3Dflat.groups-on-page%3D{num}.docs-in-group%3D1";

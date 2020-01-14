@@ -9,6 +9,6 @@ namespace EverySearch.ViewModels
     public class SearchSavedViewModel
     {
         public string Filter { get; set; }
-        public IEnumerable<Search> Searches { get; set; }
+        public IEnumerable<SearchResult> SearchResults { get; set; }
     }
 }
