@@ -21,7 +21,7 @@ namespace EverySearch.Lib
             searchProviders = new List<SearchProvider>
             {
                 new GoogleProvider(configuration),
-                //new YandexProvider(configuration)//,
+                new YandexProvider(configuration),
                 new BingProvider(configuration)
             };
             this.logger = logger;
