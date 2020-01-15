@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverySearch", "EverySearch\EverySearch.csproj", "{8C82855C-6570-40D8-842D-B887E0C9D0CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverySearchTests", "EverySearchTests\EverySearchTests.csproj", "{515706F7-D062-4C57-87BA-5E8214CD43FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverySearchTests", "EverySearchTests\EverySearchTests.csproj", "{515706F7-D062-4C57-87BA-5E8214CD43FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DD4449C-7C56-4A11-B090-4FC737B80483}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
